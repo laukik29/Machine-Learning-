@@ -1,0 +1,1155 @@
+ID,Type,Age,Breed1,Gender,Color1,Color2,MaturitySize,FurLength,Vaccinated,Sterilized,Health,Fee,PhotoAmt
+1,Dog,60,Mixed Breed,Female,Black,Brown,Large,Short,Yes,Yes,Healthy,0,5
+2,Cat,2,Domestic Short Hair,Female,Black,Gray,Small,Short,No,No,Healthy,0,3
+3,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,5
+4,Cat,2,Domestic Medium Hair,Female,Black,White,Small,Medium,No,No,Healthy,0,3
+5,Cat,12,Domestic Medium Hair,Female,Black,White,Medium,Medium,Yes,Yes,Healthy,150,3
+6,Dog,1,Mixed Breed,Female,Black,White,Medium,Short,No,No,Healthy,0,5
+7,Cat,12,Domestic Long Hair,Male,Black,No Color,Medium,Long,No,Not Sure,Healthy,300,3
+8,Dog,7,Mixed Breed,Male,Brown,Golden,Medium,Medium,Yes,Yes,Healthy,0,7
+9,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Short,Not Sure,Not Sure,Healthy,0,1
+10,Cat,4,Domestic Short Hair,Female,Black,Gray,Small,Short,Not Sure,Not Sure,Minor Injury,0,4
+11,Dog,2,Mixed Breed,Male,Black,No Color,Medium,Short,Yes,No,Healthy,0,3
+12,Cat,2,Domestic Short Hair,Female,Black,Yellow,Medium,Short,No,No,Healthy,0,2
+13,Dog,48,Golden Retriever,Female,Golden,Cream,Medium,Medium,Yes,Yes,Healthy,0,2
+14,Cat,8,Domestic Short Hair,Male,Gray,White,Medium,Medium,Yes,No,Healthy,150,3
+15,Dog,2,Mixed Breed,Female,White,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,0,1
+16,Dog,1,Terrier,Male,Brown,No Color,Medium,Short,No,No,Healthy,0,2
+17,Dog,72,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,Not Sure,Healthy,0,1
+18,Dog,48,Shih Tzu,Female,Brown,Cream,Medium,Medium,Yes,No,Healthy,0,5
+19,Dog,48,Poodle,Female,Cream,No Color,Small,Short,Not Sure,Not Sure,Healthy,200,1
+20,Dog,2,Mixed Breed,Female,Brown,White,Medium,Short,Yes,No,Healthy,0,8
+21,Dog,4,Mixed Breed,Male,White,No Color,Medium,Medium,Yes,No,Healthy,0,3
+22,Cat,3,Domestic Short Hair,Female,Yellow,No Color,Small,Short,No,No,Healthy,0,7
+23,Cat,6,Russian Blue,Male,Black,Brown,Medium,Short,Not Sure,No,Healthy,0,5
+24,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,1
+25,Dog,48,Pug,Female,Black,Brown,Small,Short,Yes,Yes,Healthy,0,2
+26,Dog,1,Mixed Breed,Female,Black,White,Medium,Medium,No,No,Healthy,0,7
+27,Cat,2,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,0,12
+28,Dog,0,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,1
+29,Dog,36,Mixed Breed,Female,Black,White,Medium,Medium,Yes,Yes,Healthy,0,5
+30,Dog,6,Terrier,Male,Brown,Cream,Medium,Medium,Yes,Yes,Healthy,0,7
+31,Cat,7,Domestic Long Hair,Female,Black,Brown,Medium,Long,Not Sure,No,Healthy,0,3
+32,Dog,38,Belgian Shepherd Malinois,Male,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,13
+33,Dog,9,Pug,Female,Black,Cream,Medium,Short,Yes,No,Healthy,500,1
+34,Dog,9,Mixed Breed,Male,Brown,White,Medium,Short,No,No,Healthy,0,2
+35,Dog,2,Mixed Breed,Female,Brown,White,Medium,Medium,Yes,No,Healthy,0,1
+36,Dog,1,Mixed Breed,Female,White,No Color,Medium,Medium,No,No,Healthy,0,1
+37,Dog,1,Mixed Breed,Female,Black,White,Medium,Short,No,No,Healthy,0,5
+38,Dog,84,Shih Tzu,Male,Brown,Cream,Small,Long,Yes,Yes,Minor Injury,0,1
+39,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,3
+40,Dog,3,Mixed Breed,Male,Black,White,Medium,Medium,Yes,No,Healthy,0,4
+41,Dog,9,Mixed Breed,Male,Black,White,Medium,Short,Yes,Yes,Minor Injury,0,1
+42,Cat,2,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,0,2
+43,Dog,41,Shih Tzu,Male,Golden,White,Small,Short,Yes,Yes,Healthy,350,3
+44,Cat,12,Domestic Medium Hair,Male,Yellow,White,Medium,Medium,Yes,No,Healthy,0,5
+45,Cat,2,Domestic Short Hair,Male,Black,No Color,Medium,Short,No,No,Minor Injury,0,4
+46,Cat,1,Domestic Short Hair,Male,Brown,Golden,Medium,Short,No,No,Healthy,15,5
+47,Cat,3,Domestic Short Hair,Male,Golden,No Color,Medium,Short,No,No,Healthy,0,1
+48,Dog,36,Silky Terrier,Male,Brown,Cream,Medium,Medium,Not Sure,Not Sure,Healthy,0,3
+49,Dog,8,Poodle,Female,Brown,No Color,Small,Short,Yes,Not Sure,Healthy,0,1
+50,Cat,4,Tabby,Female,Gray,White,Small,Medium,No,No,Healthy,0,5
+51,Dog,36,Mixed Breed,Male,Brown,No Color,Large,Short,Not Sure,Not Sure,Healthy,0,1
+52,Cat,3,Domestic Short Hair,Male,Black,Gray,Medium,Short,No,No,Healthy,0,5
+53,Dog,36,Shiba Inu,Male,Black,No Color,Medium,Medium,Yes,Yes,Healthy,250,5
+54,Cat,3,Domestic Short Hair,Female,White,No Color,Medium,Medium,Not Sure,No,Healthy,50,3
+55,Dog,2,Labrador Retriever,Male,Golden,White,Medium,Short,No,No,Healthy,0,2
+56,Dog,84,Chihuahua,Male,Brown,No Color,Small,Short,Yes,No,Healthy,0,6
+57,Cat,6,Domestic Short Hair,Male,Brown,Yellow,Small,Short,Yes,No,Healthy,0,3
+58,Cat,2,Domestic Short Hair,Female,Yellow,White,Small,Short,Not Sure,Not Sure,Healthy,0,2
+59,Cat,5,Domestic Short Hair,Female,Brown,No Color,Medium,Short,No,No,Healthy,0,1
+60,Dog,4,Mixed Breed,Female,Brown,No Color,Medium,Medium,Yes,No,Healthy,0,1
+61,Dog,42,Schnauzer,Male,Gray,White,Medium,Medium,Yes,Yes,Healthy,0,2
+62,Dog,15,Mixed Breed,Female,White,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+63,Dog,48,Mixed Breed,Male,Brown,White,Medium,Short,Yes,Yes,Healthy,0,4
+64,Cat,1,Domestic Short Hair,Male,Black,White,Small,Short,No,No,Minor Injury,0,1
+65,Dog,7,Mixed Breed,Male,Cream,White,Medium,Short,Yes,Yes,Healthy,0,1
+66,Dog,16,Mixed Breed,Male,Brown,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,0,1
+67,Dog,84,Beagle,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,100,1
+68,Cat,3,Siamese,Male,Brown,Cream,Medium,Medium,No,No,Healthy,80,4
+69,Cat,4,Domestic Medium Hair,Female,Black,White,Medium,Medium,Yes,No,Healthy,0,1
+70,Cat,8,Domestic Short Hair,Male,White,No Color,Medium,Short,Yes,Not Sure,Healthy,0,3
+71,Dog,48,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,3
+72,Dog,4,Mixed Breed,Female,Black,No Color,Medium,Short,Yes,No,Healthy,0,1
+73,Cat,29,Domestic Short Hair,Female,Brown,White,Medium,Short,Not Sure,No,Healthy,0,3
+74,Dog,12,Mixed Breed,Female,White,No Color,Medium,Long,Yes,Yes,Healthy,0,2
+75,Cat,5,Domestic Short Hair,Female,Brown,No Color,Medium,Short,No,No,Healthy,0,1
+76,Dog,16,Shih Tzu,Female,Cream,White,Small,Short,Yes,Not Sure,Healthy,0,3
+77,Dog,3,Jack Russell Terrier,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,8
+78,Dog,2,Mixed Breed,Female,Brown,White,Medium,Medium,No,No,Healthy,0,4
+79,Cat,3,Domestic Short Hair,Female,Black,White,Medium,Short,No,Yes,Healthy,0,5
+80,Cat,1,Domestic Short Hair,Male,Brown,White,Small,Short,No,No,Healthy,0,4
+81,Dog,2,Mixed Breed,Male,Brown,No Color,Medium,Short,No,No,Healthy,0,1
+82,Cat,36,Domestic Short Hair,Female,Black,Cream,Medium,Short,Yes,Yes,Healthy,0,1
+83,Cat,2,Domestic Short Hair,Male,Yellow,White,Large,Short,No,No,Healthy,0,11
+84,Cat,3,Domestic Medium Hair,Male,Black,White,Medium,Medium,Not Sure,No,Healthy,0,1
+85,Cat,5,Domestic Medium Hair,Male,Golden,Yellow,Medium,Medium,Yes,No,Healthy,0,1
+86,Cat,36,Persian,Female,Black,Brown,Medium,Long,No,Yes,Healthy,200,2
+87,Dog,12,Mixed Breed,Male,Brown,White,Small,Short,No,No,Healthy,0,2
+88,Dog,1,Toy Fox Terrier,Male,White,No Color,Medium,Short,No,No,Healthy,0,3
+89,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,1
+90,Dog,5,Doberman Pinscher,Female,Black,No Color,Medium,Medium,Yes,Yes,Healthy,0,3
+91,Dog,2,Mixed Breed,Female,Gray,No Color,Medium,Short,Not Sure,Not Sure,Serious Injury,0,0
+92,Dog,39,Mixed Breed,Male,White,No Color,Small,Long,Yes,Yes,Healthy,0,3
+93,Dog,2,Terrier,Female,Black,White,Medium,Medium,No,No,Healthy,0,3
+94,Dog,48,Shih Tzu,Female,Brown,White,Small,Long,Yes,Yes,Healthy,300,1
+95,Cat,2,Domestic Short Hair,Male,Gray,White,Medium,Short,Yes,No,Healthy,100,3
+96,Cat,24,Domestic Short Hair,Female,Black,Yellow,Large,Short,No,No,Healthy,0,1
+97,Dog,15,Poodle,Male,White,No Color,Medium,Medium,Yes,Yes,Healthy,500,0
+98,Dog,12,Mixed Breed,Male,Black,Brown,Large,Short,Not Sure,No,Healthy,0,3
+99,Dog,4,Golden Retriever,Female,Brown,No Color,Medium,Long,Yes,Yes,Healthy,0,2
+100,Dog,12,Pit Bull Terrier,Female,Black,White,Medium,Short,Yes,No,Healthy,0,5
+101,Dog,120,Mixed Breed,Female,Brown,No Color,Small,Short,Not Sure,Not Sure,Healthy,0,3
+102,Dog,95,Staffordshire Bull Terrier,Female,Brown,No Color,Large,Short,Yes,Yes,Healthy,0,2
+103,Dog,4,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,No,Healthy,0,5
+104,Dog,10,Mixed Breed,Male,Black,Brown,Medium,Medium,No,Yes,Healthy,0,1
+105,Dog,5,Mixed Breed,Female,Brown,White,Large,Short,Yes,Yes,Healthy,50,6
+106,Dog,2,Mixed Breed,Male,White,No Color,Medium,Short,No,Not Sure,Healthy,0,3
+107,Dog,12,Mixed Breed,Female,Brown,No Color,Medium,Medium,Yes,Yes,Healthy,0,2
+108,Cat,1,Domestic Short Hair,Female,Black,Yellow,Medium,Short,No,No,Healthy,0,3
+109,Cat,3,Domestic Short Hair,Female,Black,White,Small,Short,Yes,Yes,Healthy,0,5
+110,Cat,5,Domestic Medium Hair,Female,Brown,Yellow,Medium,Medium,Yes,No,Healthy,0,3
+111,Dog,2,Mixed Breed,Male,Black,No Color,Large,Short,No,No,Healthy,0,3
+112,Dog,17,Rottweiler,Male,Black,No Color,Medium,Short,Yes,No,Healthy,0,0
+113,Dog,24,Mixed Breed,Male,Black,White,Medium,Short,Not Sure,Yes,Healthy,0,2
+114,Cat,17,Domestic Medium Hair,Female,Gray,No Color,Medium,Medium,Not Sure,Yes,Healthy,0,2
+115,Cat,2,Domestic Short Hair,Male,Brown,Cream,Small,Short,No,No,Healthy,0,10
+116,Cat,5,Domestic Short Hair,Male,Golden,Yellow,Medium,Short,No,No,Healthy,0,5
+117,Cat,4,Domestic Short Hair,Female,Black,Yellow,Small,Short,No,No,Healthy,0,5
+118,Cat,31,Domestic Short Hair,Male,Gray,No Color,Medium,Short,No,Yes,Healthy,0,3
+119,Cat,5,Domestic Medium Hair,Male,Black,White,Medium,Medium,Not Sure,Yes,Healthy,0,5
+120,Cat,6,Domestic Short Hair,Female,Black,Brown,Medium,Short,No,No,Healthy,0,2
+121,Cat,3,Domestic Short Hair,Male,Yellow,No Color,Medium,Short,No,No,Healthy,50,1
+122,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Healthy,0,5
+123,Cat,5,Domestic Short Hair,Male,White,No Color,Medium,Short,No,No,Healthy,0,1
+124,Dog,1,Mixed Breed,Male,Brown,White,Medium,Medium,No,No,Healthy,0,3
+125,Dog,36,Mixed Breed,Female,Brown,No Color,Small,Long,Yes,No,Healthy,0,1
+126,Dog,3,Mixed Breed,Female,Brown,Cream,Medium,Short,No,No,Healthy,0,4
+127,Cat,1,Domestic Short Hair,Male,Golden,White,Small,Short,No,No,Healthy,0,5
+128,Dog,2,Mixed Breed,Male,Brown,No Color,Medium,Short,No,No,Healthy,0,1
+129,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,2
+130,Dog,2,Mixed Breed,Female,Cream,No Color,Medium,Short,No,No,Healthy,0,7
+131,Dog,4,Mixed Breed,Female,Black,No Color,Medium,Short,No,No,Healthy,0,5
+132,Dog,24,Terrier,Female,White,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,0,10
+133,Cat,2,Bengal,Female,Black,Golden,Medium,Short,No,No,Healthy,0,1
+134,Dog,8,Doberman Pinscher,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,3
+135,Cat,12,Tuxedo,Female,Black,White,Medium,Short,Yes,Yes,Healthy,0,2
+136,Dog,6,Golden Retriever,Male,Brown,Yellow,Large,Medium,Yes,No,Healthy,0,2
+137,Cat,7,Domestic Short Hair,Female,Black,Gray,Medium,Short,Yes,Yes,Healthy,0,6
+138,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,5
+139,Cat,2,Domestic Short Hair,Male,Black,No Color,Small,Short,No,No,Healthy,0,6
+140,Cat,54,Domestic Medium Hair,Male,Black,Gray,Medium,Medium,Yes,Yes,Healthy,0,5
+141,Cat,2,Domestic Short Hair,Female,Cream,White,Small,Short,Yes,No,Healthy,0,3
+142,Cat,3,Domestic Short Hair,Male,White,No Color,Small,Short,No,No,Healthy,0,2
+143,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,1
+144,Cat,5,Domestic Short Hair,Male,Black,White,Medium,Medium,Yes,No,Healthy,0,4
+145,Dog,41,Mixed Breed,Female,Brown,Golden,Medium,Short,Yes,Yes,Healthy,80,4
+146,Cat,3,Domestic Short Hair,Male,Golden,No Color,Medium,Short,No,No,Healthy,0,2
+147,Cat,2,Oriental Short Hair,Male,Black,White,Small,Short,Not Sure,Not Sure,Healthy,0,1
+148,Cat,7,Siamese,Male,White,No Color,Large,Medium,No,Not Sure,Healthy,0,1
+149,Dog,1,Mixed Breed,Male,Brown,No Color,Medium,Medium,No,No,Healthy,0,3
+150,Cat,2,Oriental Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,0,3
+151,Dog,2,Mixed Breed,Female,Cream,White,Large,Short,Yes,No,Healthy,50,4
+152,Cat,3,Persian,Female,Golden,No Color,Large,Medium,No,No,Healthy,150,7
+153,Cat,3,Domestic Medium Hair,Female,Yellow,White,Medium,Medium,No,No,Healthy,50,3
+154,Cat,5,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,0,2
+155,Dog,8,Mixed Breed,Male,Black,White,Medium,Short,Yes,Not Sure,Healthy,0,2
+156,Dog,6,Poodle,Female,Brown,Golden,Medium,Medium,Yes,No,Healthy,0,1
+157,Cat,2,Domestic Short Hair,Female,Black,Cream,Small,Short,Yes,No,Healthy,0,2
+158,Cat,6,Domestic Short Hair,Male,Brown,White,Medium,Short,Yes,Yes,Healthy,160,3
+159,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,1
+160,Cat,2,Domestic Long Hair,Male,Black,Brown,Medium,Medium,No,No,Healthy,50,7
+161,Dog,2,Mixed Breed,Male,Black,Cream,Medium,Medium,No,No,Healthy,0,6
+162,Cat,24,Domestic Short Hair,Male,Yellow,No Color,Medium,Short,No,No,Minor Injury,0,2
+163,Dog,4,Mixed Breed,Male,Black,Brown,Large,Short,Yes,Yes,Healthy,0,10
+164,Cat,12,Domestic Medium Hair,Female,Brown,Cream,Medium,Medium,Yes,Not Sure,Healthy,0,2
+165,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,11
+166,Cat,2,Domestic Short Hair,Male,Black,White,Small,Short,No,No,Healthy,0,5
+167,Cat,3,Siamese,Female,Brown,White,Small,Short,Not Sure,Not Sure,Healthy,0,1
+168,Cat,12,Domestic Medium Hair,Female,Yellow,White,Large,Long,No,Yes,Healthy,100,11
+169,Dog,4,Mixed Breed,Male,Black,Yellow,Medium,Short,Yes,Yes,Healthy,0,2
+170,Cat,2,Siamese,Male,Golden,Yellow,Small,Medium,No,No,Healthy,0,1
+171,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,100,10
+172,Dog,5,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,No,Healthy,0,4
+173,Cat,12,Domestic Short Hair,Male,Cream,No Color,Large,Medium,Yes,No,Healthy,0,5
+174,Cat,2,Domestic Short Hair,Female,Black,Yellow,Small,Short,No,Not Sure,Healthy,0,5
+175,Dog,4,German Shepherd Dog,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,5
+176,Dog,36,Australian Terrier,Male,Black,Golden,Small,Medium,Not Sure,No,Healthy,0,2
+177,Cat,24,Domestic Short Hair,Female,Gray,White,Small,Short,No,Yes,Healthy,0,3
+178,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,1
+179,Dog,60,Chihuahua,Female,Black,White,Small,Short,Yes,No,Healthy,100,6
+180,Dog,48,Mixed Breed,Female,Brown,White,Medium,Short,Yes,Yes,Healthy,0,4
+181,Dog,15,Mixed Breed,Male,Brown,Yellow,Medium,Short,Not Sure,Not Sure,Healthy,0,4
+182,Dog,2,Cocker Spaniel,Female,Black,No Color,Medium,Short,Not Sure,No,Healthy,0,5
+183,Dog,2,Mixed Breed,Female,Black,White,Medium,Short,Yes,No,Healthy,0,8
+184,Cat,8,Tabby,Male,Black,Gray,Small,Short,Yes,Yes,Healthy,0,4
+185,Cat,4,Bengal,Male,Gray,No Color,Medium,Medium,No,No,Healthy,100,1
+186,Dog,48,Jack Russell Terrier,Male,Brown,White,Medium,Short,Yes,No,Healthy,0,2
+187,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,20,1
+188,Cat,2,Siamese,Female,Gray,White,Small,Short,No,No,Healthy,0,4
+189,Dog,4,German Shepherd Dog,Female,Black,Golden,Medium,Short,Not Sure,Not Sure,Healthy,0,3
+190,Cat,4,Domestic Short Hair,Female,White,No Color,Small,Short,No,No,Minor Injury,0,4
+191,Dog,24,Mixed Breed,Female,Black,Cream,Medium,Short,Yes,Yes,Healthy,0,11
+192,Dog,2,Mixed Breed,Female,Brown,Cream,Medium,Short,No,No,Minor Injury,0,4
+193,Dog,2,Mixed Breed,Female,Black,Yellow,Medium,Medium,No,No,Healthy,0,4
+194,Cat,2,Domestic Short Hair,Male,Black,Gray,Small,Short,No,No,Healthy,0,4
+195,Cat,2,Domestic Short Hair,Male,Brown,No Color,Small,Short,Yes,No,Healthy,50,1
+196,Dog,2,Mixed Breed,Female,Brown,White,Small,Short,Yes,Yes,Healthy,0,4
+197,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,No,Healthy,0,7
+198,Dog,2,Mixed Breed,Male,Black,No Color,Medium,Medium,No,No,Healthy,0,3
+199,Dog,60,Beagle,Male,Black,White,Medium,Short,Yes,Yes,Healthy,0,8
+200,Cat,5,Siamese,Male,Brown,Cream,Medium,Medium,No,No,Healthy,50,5
+201,Cat,2,Domestic Short Hair,Male,Brown,Cream,Medium,Short,No,No,Healthy,0,2
+202,Cat,6,Domestic Short Hair,Male,Golden,White,Small,Short,No,No,Healthy,0,1
+203,Cat,9,Domestic Long Hair,Female,White,No Color,Medium,Medium,Yes,Yes,Healthy,0,3
+204,Dog,2,Mixed Breed,Female,Cream,No Color,Medium,Short,Yes,No,Healthy,0,1
+205,Dog,85,Labrador Retriever,Male,Cream,No Color,Medium,Short,Yes,No,Healthy,0,8
+206,Cat,84,Oriental Short Hair,Male,Gray,White,Large,Short,Yes,Yes,Healthy,0,5
+207,Cat,2,Domestic Long Hair,Male,Yellow,White,Medium,Short,No,No,Healthy,100,4
+208,Cat,12,Domestic Short Hair,Female,Gray,White,Medium,Short,Yes,Yes,Healthy,0,1
+209,Dog,48,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,100,1
+210,Dog,5,Mixed Breed,Female,Brown,White,Medium,Short,Yes,No,Healthy,0,2
+211,Dog,2,Mixed Breed,Female,Brown,No Color,Small,Short,No,No,Healthy,0,2
+212,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,12
+213,Dog,12,Mixed Breed,Female,Golden,Cream,Medium,Short,Yes,Yes,Healthy,0,1
+214,Cat,1,Oriental Short Hair,Female,Black,No Color,Small,Medium,No,No,Minor Injury,0,1
+215,Dog,12,Hound,Female,Brown,No Color,Medium,Short,No,Yes,Healthy,0,3
+216,Dog,96,Mixed Breed,Male,Black,White,Medium,Short,No,No,Healthy,0,2
+217,Dog,4,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,Not Sure,Healthy,0,4
+218,Cat,6,Domestic Medium Hair,Male,Black,Brown,Medium,Medium,No,Yes,Minor Injury,100,5
+219,Cat,3,Domestic Short Hair,Male,Black,Gray,Medium,Short,No,No,Healthy,0,7
+220,Cat,60,Domestic Short Hair,Male,Yellow,No Color,Large,Short,Yes,Yes,Healthy,0,1
+221,Cat,5,Siamese,Female,Black,White,Medium,Short,Yes,No,Healthy,100,1
+222,Dog,3,Mixed Breed,Female,Black,Brown,Small,Short,Not Sure,Not Sure,Healthy,0,3
+223,Dog,7,Mixed Breed,Male,Brown,Golden,Medium,Short,No,No,Healthy,0,0
+224,Dog,10,Mixed Breed,Male,Brown,White,Large,Short,Not Sure,Yes,Minor Injury,0,5
+225,Cat,3,Domestic Short Hair,Female,Black,Golden,Medium,Short,No,No,Healthy,0,3
+226,Dog,4,Spitz,Male,Black,Brown,Medium,Short,Not Sure,Not Sure,Healthy,100,5
+227,Dog,7,Beagle,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,500,10
+228,Cat,1,Oriental Short Hair,Male,Black,Gray,Medium,Short,No,No,Healthy,0,4
+229,Cat,2,Domestic Short Hair,Male,Yellow,No Color,Medium,Short,No,No,Healthy,0,1
+230,Dog,12,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,3
+231,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,150,3
+232,Cat,3,Domestic Medium Hair,Female,Cream,Gray,Medium,Medium,Yes,No,Healthy,0,5
+233,Dog,5,Mixed Breed,Female,Brown,Yellow,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+234,Cat,14,Tabby,Male,Golden,No Color,Medium,Short,Not Sure,Yes,Healthy,0,1
+235,Dog,6,Mixed Breed,Female,Brown,Golden,Large,Short,Yes,Yes,Healthy,0,6
+236,Cat,12,Domestic Short Hair,Female,Golden,No Color,Medium,Short,Not Sure,No,Healthy,0,0
+237,Cat,4,Domestic Short Hair,Male,White,No Color,Medium,Short,No,No,Healthy,0,1
+238,Cat,3,Domestic Long Hair,Female,Black,Brown,Medium,Medium,No,Not Sure,Healthy,0,9
+239,Dog,24,Mixed Breed,Male,Brown,No Color,Small,Medium,Yes,No,Healthy,0,5
+240,Dog,72,Golden Retriever,Female,Golden,No Color,Large,Long,No,Not Sure,Minor Injury,0,2
+241,Cat,2,Domestic Long Hair,Female,Brown,Gray,Medium,Long,No,No,Healthy,0,13
+242,Cat,1,Domestic Medium Hair,Male,Black,No Color,Small,Medium,No,No,Healthy,0,2
+243,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,5
+244,Cat,6,Domestic Short Hair,Male,Cream,White,Medium,Short,No,No,Healthy,0,4
+245,Dog,12,Poodle,Female,Black,No Color,Small,Medium,Not Sure,No,Healthy,1,1
+246,Dog,24,Labrador Retriever,Female,Black,No Color,Large,Medium,Yes,Not Sure,Healthy,300,1
+247,Cat,12,Domestic Short Hair,Female,White,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+248,Dog,20,Mixed Breed,Female,Black,White,Medium,Short,Yes,Yes,Healthy,0,1
+249,Dog,48,Spitz,Female,Brown,No Color,Medium,Medium,No,No,Healthy,0,0
+250,Dog,60,Mixed Breed,Male,Brown,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,0,4
+251,Cat,8,Domestic Short Hair,Female,Black,Yellow,Small,Short,Yes,Not Sure,Healthy,0,2
+252,Cat,6,Domestic Long Hair,Female,Cream,Gray,Medium,Long,Yes,Yes,Healthy,0,7
+253,Dog,2,Labrador Retriever,Male,Golden,White,Medium,Short,No,No,Healthy,0,0
+254,Cat,1,Domestic Medium Hair,Female,Black,No Color,Small,Medium,No,No,Healthy,0,1
+255,Dog,2,Mixed Breed,Female,Brown,No Color,Small,Short,Not Sure,No,Healthy,0,2
+256,Dog,4,Mixed Breed,Female,White,No Color,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+257,Dog,5,Poodle,Male,Brown,No Color,Small,Medium,Yes,Yes,Healthy,0,2
+258,Cat,2,Domestic Medium Hair,Male,Black,White,Medium,Medium,Yes,No,Healthy,0,8
+259,Dog,2,Mixed Breed,Male,Black,White,Medium,Short,No,No,Healthy,0,4
+260,Cat,4,Tiger,Male,Golden,White,Small,Short,No,No,Healthy,0,1
+261,Cat,2,Domestic Short Hair,Male,Yellow,White,Medium,Short,No,No,Healthy,0,3
+262,Cat,2,Domestic Short Hair,Male,Yellow,White,Medium,Short,No,No,Healthy,0,2
+263,Dog,4,Jack Russell Terrier,Female,Brown,White,Small,Short,Yes,No,Healthy,300,5
+264,Cat,2,Domestic Short Hair,Female,Yellow,Cream,Small,Short,Not Sure,Not Sure,Healthy,0,2
+265,Dog,3,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,No,Healthy,0,5
+266,Dog,3,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,No,Healthy,0,7
+267,Dog,5,Mixed Breed,Male,Black,Brown,Large,Short,No,No,Healthy,0,0
+268,Cat,1,Domestic Short Hair,Female,Black,Brown,Medium,Short,No,No,Healthy,0,1
+269,Cat,3,Domestic Short Hair,Female,Cream,Gray,Medium,Short,Yes,Yes,Healthy,100,1
+270,Dog,24,Mixed Breed,Female,Black,No Color,Medium,Short,No,Yes,Healthy,0,1
+271,Dog,96,Golden Retriever,Male,Golden,No Color,Medium,Medium,Yes,No,Healthy,0,2
+272,Dog,4,Beagle,Female,Cream,White,Medium,Short,Yes,Yes,Healthy,0,3
+273,Cat,6,Domestic Short Hair,Female,Brown,Gray,Small,Short,No,No,Minor Injury,0,1
+274,Dog,1,Mixed Breed,Female,Black,Golden,Medium,Short,No,No,Healthy,0,7
+275,Cat,27,Domestic Short Hair,Female,Black,Gray,Medium,Short,Yes,Yes,Healthy,0,3
+276,Dog,2,Mixed Breed,Female,Cream,White,Small,Short,Yes,No,Healthy,50,3
+277,Dog,4,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,13
+278,Dog,8,Mixed Breed,Female,Brown,Golden,Medium,Medium,No,No,Healthy,0,2
+279,Dog,36,Shih Tzu,Male,Black,Cream,Small,Short,Not Sure,Not Sure,Healthy,0,5
+280,Cat,1,Domestic Short Hair,Female,Black,White,Small,Short,No,Not Sure,Healthy,0,3
+281,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Medium,No,No,Healthy,0,3
+282,Dog,64,Golden Retriever,Male,Brown,Golden,Large,Medium,Yes,No,Healthy,0,2
+283,Dog,36,Shih Tzu,Male,Cream,White,Small,Medium,Yes,No,Minor Injury,0,1
+284,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,4
+285,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,5
+286,Dog,2,Mixed Breed,Female,Cream,Gray,Medium,Short,Yes,No,Healthy,0,1
+287,Cat,1,Domestic Short Hair,Male,Black,Cream,Small,Short,No,No,Healthy,0,5
+288,Cat,3,Tabby,Female,Brown,Gray,Small,Short,Not Sure,No,Healthy,0,4
+289,Dog,2,Mixed Breed,Female,Brown,Yellow,Medium,Short,Yes,No,Healthy,0,1
+290,Cat,17,Domestic Short Hair,Female,Black,Gray,Small,Short,Yes,Not Sure,Minor Injury,0,4
+291,Cat,18,Domestic Short Hair,Male,Black,White,Medium,Medium,Yes,Yes,Healthy,0,2
+292,Cat,3,Domestic Short Hair,Female,Cream,Gray,Medium,Short,No,No,Healthy,0,2
+293,Cat,2,Domestic Medium Hair,Female,Black,Brown,Medium,Medium,No,No,Healthy,50,5
+294,Dog,3,Mixed Breed,Female,Brown,Yellow,Medium,Short,Yes,Yes,Healthy,0,4
+295,Cat,2,Domestic Short Hair,Male,Yellow,White,Medium,Medium,No,No,Healthy,0,3
+296,Dog,8,Mixed Breed,Female,Cream,No Color,Medium,Medium,Yes,Yes,Healthy,150,2
+297,Dog,68,Rottweiler,Male,Black,Brown,Large,Short,Yes,No,Healthy,0,6
+298,Dog,7,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,6
+299,Cat,12,Domestic Short Hair,Female,Brown,White,Small,Short,Yes,Yes,Healthy,0,5
+300,Dog,7,Mixed Breed,Female,Brown,No Color,Small,Short,Yes,Yes,Healthy,110,4
+301,Dog,2,Terrier,Female,Cream,No Color,Medium,Medium,Yes,Not Sure,Healthy,250,5
+302,Dog,2,Mixed Breed,Female,Cream,No Color,Medium,Short,Not Sure,No,Healthy,0,3
+303,Cat,2,Domestic Short Hair,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,5
+304,Dog,2,Mixed Breed,Female,Brown,White,Medium,Short,Not Sure,Not Sure,Healthy,0,7
+305,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,6
+306,Cat,5,Burmese,Female,Brown,Gray,Medium,Medium,No,No,Healthy,0,3
+307,Cat,6,Domestic Short Hair,Male,Brown,White,Medium,Short,Yes,No,Healthy,0,4
+308,Cat,2,Domestic Short Hair,Male,Gray,No Color,Small,Short,No,No,Healthy,0,1
+309,Dog,1,Mixed Breed,Female,Brown,No Color,Medium,Short,No,No,Minor Injury,38,1
+310,Dog,60,Doberman Pinscher,Female,Black,No Color,Large,Short,Yes,Yes,Healthy,300,2
+311,Dog,51,Shih Tzu,Female,Brown,White,Medium,Short,Yes,Yes,Healthy,188,2
+312,Cat,60,Domestic Short Hair,Male,Yellow,White,Medium,Short,Yes,Yes,Healthy,0,13
+313,Cat,3,Domestic Short Hair,Female,Black,White,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+314,Dog,4,German Shepherd Dog,Female,Black,Brown,Small,Medium,No,No,Minor Injury,30,3
+315,Dog,48,Beagle,Male,Black,Brown,Medium,Medium,Yes,Yes,Healthy,500,0
+316,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,20,1
+317,Cat,2,Siamese,Male,Black,White,Small,Medium,No,No,Healthy,0,1
+318,Cat,19,Domestic Short Hair,Male,Yellow,No Color,Medium,Short,Yes,Yes,Healthy,0,5
+319,Dog,24,Mixed Breed,Male,Brown,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,0,3
+320,Cat,2,Domestic Medium Hair,Female,Black,Yellow,Medium,Medium,No,No,Healthy,0,3
+321,Dog,1,Mixed Breed,Male,Brown,No Color,Medium,Short,Not Sure,No,Healthy,0,2
+322,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,6
+323,Dog,2,Belgian Shepherd Malinois,Male,Brown,No Color,Medium,Short,Not Sure,No,Healthy,0,3
+324,Dog,5,Mixed Breed,Female,Brown,Cream,Medium,Medium,No,No,Healthy,0,1
+325,Cat,5,Tabby,Female,Black,Gray,Medium,Medium,No,No,Healthy,0,7
+326,Cat,2,Siamese,Female,Brown,Cream,Small,Medium,No,No,Healthy,100,2
+327,Cat,18,Domestic Medium Hair,Male,White,No Color,Medium,Medium,Yes,Yes,Healthy,0,5
+328,Cat,4,Domestic Short Hair,Female,White,No Color,Small,Short,No,No,Healthy,0,2
+329,Dog,4,Mixed Breed,Female,Black,No Color,Medium,Medium,Yes,No,Healthy,150,1
+330,Dog,3,Golden Retriever,Male,Brown,No Color,Large,Medium,Not Sure,No,Healthy,0,1
+331,Dog,5,Whippet,Female,Golden,Cream,Medium,Short,Yes,No,Healthy,0,4
+332,Dog,24,Mixed Breed,Male,Brown,White,Medium,Medium,Yes,Yes,Minor Injury,0,5
+333,Dog,48,Mixed Breed,Female,Black,Brown,Large,Short,Yes,No,Healthy,0,2
+334,Cat,60,Burmese,Male,Brown,No Color,Medium,Long,Yes,Yes,Healthy,0,1
+335,Cat,24,Domestic Short Hair,Female,Black,Brown,Medium,Short,No,No,Healthy,0,5
+336,Dog,2,Mixed Breed,Female,Brown,Yellow,Medium,Short,No,No,Healthy,0,2
+337,Dog,1,Mixed Breed,Female,Cream,No Color,Medium,Short,No,No,Healthy,0,1
+338,Dog,2,Mixed Breed,Male,Cream,White,Medium,Short,Yes,No,Healthy,0,3
+339,Cat,8,Siamese,Male,White,No Color,Medium,Short,No,No,Healthy,100,1
+340,Dog,36,Mixed Breed,Male,Black,Brown,Medium,Short,Not Sure,No,Healthy,0,2
+341,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,7
+342,Cat,48,Tabby,Male,Black,Brown,Large,Short,Yes,No,Healthy,20,4
+343,Cat,4,Domestic Short Hair,Male,Black,Gray,Medium,Short,Not Sure,Not Sure,Healthy,0,4
+344,Dog,12,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,6
+345,Cat,4,Domestic Short Hair,Male,Black,Gray,Medium,Short,Yes,No,Healthy,10,6
+346,Dog,5,Mixed Breed,Female,Brown,Cream,Medium,Short,Yes,Yes,Healthy,0,2
+347,Dog,2,Mixed Breed,Male,Black,Cream,Medium,Medium,No,No,Healthy,0,6
+348,Cat,1,Domestic Medium Hair,Male,Golden,Gray,Medium,Medium,No,No,Healthy,0,3
+349,Dog,24,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,Not Sure,Healthy,0,1
+350,Dog,6,Pit Bull Terrier,Female,Black,White,Medium,Short,Yes,No,Healthy,0,3
+351,Dog,10,Shih Tzu,Female,Black,Brown,Medium,Medium,Yes,Not Sure,Healthy,0,3
+352,Cat,24,Domestic Long Hair,Male,Black,Brown,Large,Long,Not Sure,No,Healthy,50,4
+353,Dog,2,Mixed Breed,Female,Black,White,Medium,Medium,Yes,No,Healthy,0,3
+354,Cat,5,Domestic Medium Hair,Male,Yellow,White,Medium,Medium,No,No,Healthy,0,5
+355,Dog,36,Poodle,Male,Cream,White,Small,Medium,Yes,Yes,Healthy,200,4
+356,Dog,36,English Cocker Spaniel,Female,Brown,No Color,Small,Medium,Yes,Yes,Healthy,0,10
+357,Cat,2,Domestic Medium Hair,Female,Brown,No Color,Large,Medium,No,Not Sure,Healthy,0,2
+358,Cat,1,Domestic Medium Hair,Female,Cream,No Color,Small,Medium,No,No,Healthy,0,4
+359,Cat,12,Domestic Medium Hair,Male,Cream,White,Large,Medium,No,No,Healthy,0,4
+360,Cat,28,Siamese,Male,Brown,No Color,Large,Medium,No,Not Sure,Serious Injury,0,0
+361,Dog,5,Mixed Breed,Female,Cream,No Color,Medium,Short,Yes,No,Healthy,50,3
+362,Dog,24,Cocker Spaniel,Female,Brown,Cream,Small,Medium,Yes,Yes,Healthy,0,6
+363,Cat,15,Domestic Short Hair,Female,Black,Brown,Medium,Short,No,No,Healthy,0,2
+364,Dog,15,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,2
+365,Cat,5,Domestic Short Hair,Male,Golden,No Color,Medium,Short,No,No,Healthy,0,4
+366,Cat,3,Siamese,Male,Brown,Cream,Small,Short,Yes,No,Healthy,0,3
+367,Cat,21,Domestic Short Hair,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,2
+368,Cat,2,Domestic Short Hair,Female,Golden,No Color,Medium,Short,Yes,No,Healthy,0,2
+369,Dog,24,Spitz,Female,White,No Color,Small,Long,Yes,Not Sure,Healthy,0,2
+370,Cat,3,Domestic Short Hair,Male,Brown,Golden,Small,Short,Yes,No,Healthy,0,6
+371,Dog,12,Shetland Sheepdog Sheltie,Male,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,5
+372,Dog,6,German Pinscher,Female,Black,No Color,Medium,Short,Not Sure,No,Healthy,0,3
+373,Dog,3,Mixed Breed,Male,Brown,White,Large,Medium,Not Sure,No,Healthy,0,3
+374,Dog,18,Chihuahua,Male,Cream,White,Small,Short,Yes,No,Healthy,200,3
+375,Cat,2,Domestic Short Hair,Female,Black,Golden,Small,Short,No,No,Healthy,0,7
+376,Dog,36,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+377,Cat,2,Domestic Short Hair,Male,Black,Brown,Medium,Short,No,No,Healthy,0,3
+378,Dog,60,Mixed Breed,Male,Brown,Cream,Medium,Medium,Not Sure,Not Sure,Healthy,0,2
+379,Dog,7,Golden Retriever,Male,Golden,No Color,Large,Medium,Yes,Yes,Healthy,250,4
+380,Dog,24,Mixed Breed,Female,Brown,White,Medium,Medium,Not Sure,Not Sure,Healthy,0,1
+381,Cat,3,Domestic Short Hair,Male,Black,White,Medium,Short,Yes,Yes,Healthy,0,15
+382,Cat,12,Domestic Medium Hair,Female,Black,Brown,Medium,Medium,Not Sure,Not Sure,Healthy,75,2
+383,Dog,3,Mixed Breed,Female,Black,Brown,Small,Medium,Yes,No,Healthy,200,2
+384,Dog,5,Labrador Retriever,Female,Cream,White,Medium,Short,Yes,Yes,Healthy,0,5
+385,Dog,19,Cocker Spaniel,Male,Golden,No Color,Medium,Medium,Yes,No,Healthy,390,3
+386,Cat,36,Domestic Short Hair,Female,Black,Yellow,Medium,Short,No,No,Healthy,0,5
+387,Cat,2,Domestic Short Hair,Male,Yellow,White,Small,Short,No,No,Healthy,0,5
+388,Cat,5,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,0,12
+389,Cat,3,Domestic Medium Hair,Female,Black,Yellow,Medium,Medium,No,No,Healthy,150,8
+390,Cat,3,Bengal,Male,Golden,Yellow,Medium,Short,No,No,Healthy,0,3
+391,Dog,12,Mixed Breed,Male,Black,No Color,Medium,Short,Yes,No,Healthy,0,3
+392,Cat,2,Domestic Short Hair,Female,Black,White,Medium,Short,No,No,Healthy,0,2
+393,Cat,6,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,10,7
+394,Cat,2,Domestic Short Hair,Female,Black,White,Medium,Short,No,No,Healthy,0,5
+395,Dog,2,Mixed Breed,Female,Brown,Cream,Medium,Short,No,No,Healthy,0,3
+396,Dog,7,Mixed Breed,Female,White,No Color,Medium,Short,No,Yes,Healthy,0,5
+397,Dog,1,Mixed Breed,Female,White,No Color,Medium,Medium,No,No,Healthy,0,5
+398,Dog,3,Mixed Breed,Male,Brown,White,Medium,Medium,No,No,Healthy,0,1
+399,Dog,12,Pit Bull Terrier,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,100,1
+400,Dog,11,Beagle,Female,Black,Brown,Medium,Short,Yes,Not Sure,Healthy,0,2
+401,Cat,3,Domestic Medium Hair,Male,Yellow,No Color,Large,Medium,Yes,No,Healthy,150,3
+402,Cat,1,Domestic Short Hair,Male,White,No Color,Medium,Short,No,No,Healthy,0,15
+403,Cat,3,American Shorthair,Female,Black,No Color,Small,Medium,Yes,Yes,Healthy,0,5
+404,Cat,2,Domestic Short Hair,Male,Brown,White,Small,Medium,No,No,Healthy,20,3
+405,Cat,8,Domestic Medium Hair,Male,Gray,White,Medium,Medium,No,No,Healthy,0,3
+406,Dog,2,Mixed Breed,Male,Black,Brown,Small,Short,No,No,Healthy,150,4
+407,Cat,5,Oriental Short Hair,Female,Brown,Cream,Medium,Medium,No,No,Healthy,0,3
+408,Dog,24,Poodle,Male,White,No Color,Small,Short,Yes,Yes,Healthy,0,1
+409,Cat,24,Domestic Short Hair,Female,Gray,No Color,Small,Short,Yes,Not Sure,Healthy,0,3
+410,Cat,2,Domestic Medium Hair,Male,Yellow,No Color,Small,Short,Yes,No,Healthy,0,5
+411,Cat,6,Tabby,Female,Gray,No Color,Medium,Short,No,No,Healthy,50,4
+412,Cat,3,Domestic Short Hair,Male,Brown,Cream,Small,Short,No,No,Healthy,0,8
+413,Cat,9,Domestic Short Hair,Male,Golden,No Color,Medium,Short,No,No,Healthy,0,5
+414,Cat,13,Domestic Medium Hair,Male,Golden,Yellow,Large,Medium,No,No,Healthy,0,3
+415,Cat,2,Domestic Medium Hair,Male,Black,Gray,Small,Medium,No,Not Sure,Healthy,0,1
+416,Cat,3,Persian,Male,Cream,No Color,Small,Long,No,No,Healthy,300,4
+417,Dog,10,Dalmatian,Female,Black,White,Medium,Short,Yes,Yes,Healthy,100,8
+418,Cat,1,Domestic Medium Hair,Female,Brown,Cream,Medium,Medium,No,No,Healthy,0,2
+419,Cat,36,Domestic Short Hair,Male,Black,Gray,Medium,Short,Yes,Yes,Healthy,0,6
+420,Cat,2,Domestic Medium Hair,Female,Golden,Gray,Medium,Medium,Yes,No,Healthy,0,5
+421,Cat,7,Domestic Medium Hair,Female,White,No Color,Medium,Medium,Yes,No,Healthy,100,3
+422,Cat,2,Domestic Short Hair,Male,Brown,Golden,Medium,Short,No,No,Healthy,10,5
+423,Cat,24,Tabby,Female,Brown,No Color,Medium,Short,Not Sure,Yes,Healthy,0,1
+424,Cat,36,Domestic Short Hair,Female,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,4
+425,Cat,1,Domestic Medium Hair,Female,Black,White,Small,Medium,No,No,Healthy,0,10
+426,Cat,3,Domestic Short Hair,Male,Black,Gray,Medium,Short,No,No,Healthy,0,5
+427,Dog,1,Mixed Breed,Female,Black,No Color,Medium,Medium,Yes,No,Healthy,0,4
+428,Dog,12,Mixed Breed,Female,Yellow,No Color,Medium,Short,Yes,Yes,Healthy,0,11
+429,Cat,4,Domestic Short Hair,Male,Golden,No Color,Medium,Short,Yes,Yes,Healthy,100,2
+430,Dog,36,Poodle,Female,Cream,No Color,Small,Short,Yes,Not Sure,Healthy,400,1
+431,Cat,6,Persian,Male,Golden,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,500,2
+432,Cat,3,Domestic Short Hair,Male,Brown,Cream,Small,Short,No,No,Minor Injury,0,4
+433,Dog,4,Mixed Breed,Male,Cream,No Color,Medium,Short,Yes,No,Healthy,150,13
+434,Cat,12,Domestic Short Hair,Female,Black,Yellow,Small,Short,Yes,Yes,Healthy,0,2
+435,Dog,12,Mixed Breed,Female,White,No Color,Small,Short,Not Sure,Not Sure,Healthy,0,2
+436,Cat,6,Domestic Medium Hair,Female,Gray,No Color,Medium,Medium,No,No,Healthy,0,2
+437,Cat,12,Persian,Male,Black,White,Medium,Medium,Yes,No,Healthy,0,2
+438,Cat,6,Domestic Medium Hair,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,1
+439,Cat,7,Domestic Short Hair,Male,Black,Gray,Medium,Short,No,No,Healthy,0,3
+440,Dog,24,Beagle,Male,Brown,White,Small,Short,Not Sure,Not Sure,Healthy,0,0
+441,Cat,24,Domestic Medium Hair,Female,White,No Color,Medium,Medium,No,Not Sure,Healthy,0,1
+442,Dog,9,Greyhound,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,2
+443,Dog,5,Beagle,Male,Brown,No Color,Medium,Short,No,No,Healthy,0,1
+444,Cat,24,American Shorthair,Female,Gray,White,Large,Medium,Not Sure,Not Sure,Healthy,0,2
+445,Dog,2,Mixed Breed,Male,Cream,White,Medium,Short,Yes,No,Healthy,0,3
+446,Dog,72,Beagle,Male,Brown,White,Medium,Short,Yes,Yes,Healthy,0,2
+447,Cat,2,Domestic Short Hair,Male,Gray,White,Medium,Short,No,No,Healthy,0,5
+448,Dog,8,Mixed Breed,Female,Black,No Color,Medium,Short,Yes,Yes,Healthy,0,2
+449,Cat,2,Domestic Medium Hair,Female,Gray,No Color,Small,Medium,No,Yes,Healthy,0,1
+450,Cat,2,Domestic Medium Hair,Female,Brown,No Color,Large,Medium,No,Not Sure,Healthy,0,2
+451,Dog,2,Mixed Breed,Female,Golden,No Color,Medium,Medium,No,No,Healthy,0,2
+452,Dog,18,Corgi,Male,Cream,No Color,Medium,Medium,Yes,Yes,Healthy,200,2
+453,Cat,2,Domestic Short Hair,Male,Black,No Color,Medium,Short,No,No,Healthy,0,7
+454,Dog,60,Schnauzer,Male,Black,Gray,Medium,Medium,Yes,Not Sure,Healthy,0,1
+455,Cat,2,Domestic Short Hair,Female,Black,Yellow,Small,Short,No,No,Healthy,0,5
+456,Cat,7,Maine Coon,Male,Black,White,Large,Medium,No,No,Healthy,70,5
+457,Dog,48,Pomeranian,Male,Brown,Golden,Small,Medium,Yes,No,Healthy,0,3
+458,Dog,2,Mixed Breed,Male,Cream,No Color,Medium,Medium,No,No,Healthy,0,1
+459,Dog,2,Mixed Breed,Female,Cream,No Color,Medium,Short,No,No,Healthy,0,1
+460,Dog,3,Mixed Breed,Male,Black,Brown,Large,Short,Not Sure,Not Sure,Healthy,50,2
+461,Cat,2,Domestic Short Hair,Female,Black,Golden,Small,Short,Yes,No,Healthy,0,1
+462,Dog,6,Mixed Breed,Female,Golden,No Color,Small,Short,Yes,No,Healthy,0,2
+463,Cat,6,Tabby,Female,Gray,No Color,Small,Short,No,No,Healthy,0,6
+464,Cat,3,Domestic Short Hair,Male,Golden,No Color,Medium,Short,Yes,No,Healthy,30,5
+465,Cat,3,Domestic Short Hair,Male,Brown,Yellow,Medium,Short,No,No,Healthy,0,5
+466,Cat,8,Domestic Short Hair,Female,Black,Yellow,Small,Short,Not Sure,Not Sure,Healthy,0,6
+467,Cat,3,Domestic Short Hair,Female,Cream,No Color,Small,Short,No,No,Healthy,0,5
+468,Cat,1,American Shorthair,Female,Brown,Golden,Small,Short,No,No,Minor Injury,0,3
+469,Dog,2,Mixed Breed,Female,Black,No Color,Medium,Medium,No,No,Healthy,20,1
+470,Dog,18,Mixed Breed,Male,Yellow,No Color,Medium,Medium,No,No,Healthy,0,2
+471,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,1
+472,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,Not Sure,Healthy,0,7
+473,Cat,4,Domestic Medium Hair,Female,Black,Golden,Small,Medium,Yes,Yes,Healthy,0,3
+474,Cat,14,Domestic Long Hair,Female,Brown,No Color,Large,Long,Yes,Yes,Healthy,0,12
+475,Dog,36,Mixed Breed,Male,Black,Yellow,Medium,Medium,Not Sure,Not Sure,Healthy,0,3
+476,Cat,7,Domestic Short Hair,Female,Yellow,Cream,Medium,Short,No,No,Healthy,50,2
+477,Cat,1,Domestic Medium Hair,Female,Golden,Cream,Medium,Medium,No,No,Healthy,0,2
+478,Cat,3,Domestic Short Hair,Female,Black,Brown,Medium,Short,No,No,Healthy,0,6
+479,Dog,36,Mixed Breed,Female,Black,Brown,Medium,Short,No,Yes,Healthy,0,3
+480,Cat,1,Tabby,Male,Black,White,Small,Medium,No,No,Healthy,0,5
+481,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,2
+482,Cat,4,Domestic Short Hair,Female,Brown,Cream,Small,Short,No,No,Healthy,0,3
+483,Dog,24,Shih Tzu,Male,Gray,White,Small,Long,Not Sure,Not Sure,Healthy,0,2
+484,Dog,30,Bull Terrier,Male,White,No Color,Medium,Short,Yes,Yes,Healthy,200,2
+485,Dog,3,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,6
+486,Dog,6,Mixed Breed,Female,White,No Color,Medium,Short,Yes,Yes,Healthy,0,2
+487,Cat,9,Persian,Male,Black,White,Large,Long,No,No,Healthy,150,4
+488,Cat,7,Domestic Short Hair,Female,Black,Yellow,Medium,Short,No,No,Healthy,0,2
+489,Cat,3,Domestic Short Hair,Male,Black,White,Medium,Short,Yes,Not Sure,Healthy,0,6
+490,Dog,3,Mixed Breed,Male,Black,No Color,Medium,Short,No,No,Healthy,0,7
+491,Cat,1,Tabby,Male,Gray,No Color,Small,Short,No,No,Healthy,0,6
+492,Dog,5,Spitz,Female,Brown,Golden,Small,Short,Yes,Yes,Healthy,0,8
+493,Dog,3,Mixed Breed,Male,Black,White,Medium,Short,Yes,No,Healthy,0,3
+494,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,4
+495,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,1
+496,Dog,8,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,9
+497,Dog,2,Mixed Breed,Female,Cream,No Color,Medium,Medium,Yes,No,Healthy,0,5
+498,Cat,18,Domestic Short Hair,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,300,3
+499,Cat,5,Domestic Short Hair,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,1
+500,Cat,2,Domestic Long Hair,Male,Black,No Color,Medium,Long,No,Not Sure,Healthy,0,3
+501,Cat,4,Domestic Long Hair,Male,Cream,No Color,Large,Medium,Yes,No,Healthy,0,4
+502,Dog,12,Mixed Breed,Male,Yellow,No Color,Medium,Short,Yes,No,Healthy,0,3
+503,Cat,14,Maine Coon,Male,Cream,No Color,Large,Long,Yes,No,Healthy,300,3
+504,Cat,92,Maine Coon,Female,Black,Brown,Medium,Long,Yes,Yes,Healthy,50,3
+505,Dog,2,Mixed Breed,Female,Cream,White,Medium,Medium,No,No,Healthy,0,3
+506,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,No,Healthy,0,5
+507,Cat,1,Domestic Short Hair,Male,Brown,Gray,Medium,Short,No,No,Healthy,0,4
+508,Dog,3,Mixed Breed,Female,Black,No Color,Medium,Short,Yes,No,Healthy,0,12
+509,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,Not Sure,No,Healthy,0,1
+510,Cat,48,Maine Coon,Female,Black,Brown,Large,Long,Yes,Yes,Healthy,0,4
+511,Dog,12,Labrador Retriever,Male,Brown,White,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+512,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Short,No,Not Sure,Healthy,0,2
+513,Dog,1,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Healthy,20,1
+514,Cat,2,Domestic Short Hair,Female,Black,White,Medium,Short,No,No,Healthy,0,3
+515,Dog,24,Jack Russell Terrier,Male,Brown,White,Medium,Short,Yes,No,Healthy,0,1
+516,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,2
+517,Cat,9,Calico,Female,Black,Yellow,Medium,Medium,Yes,No,Healthy,0,4
+518,Dog,3,Mixed Breed,Female,Black,White,Medium,Short,No,No,Healthy,0,5
+519,Cat,12,Domestic Medium Hair,Female,White,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,0,4
+520,Cat,3,Tiger,Female,White,No Color,Medium,Medium,No,No,Healthy,0,1
+521,Cat,1,Domestic Short Hair,Female,Brown,White,Small,Short,No,No,Healthy,0,1
+522,Dog,3,Shepherd,Female,Cream,Gray,Medium,Short,No,No,Healthy,0,4
+523,Cat,3,Domestic Short Hair,Female,Cream,No Color,Medium,Medium,Yes,No,Healthy,0,1
+524,Dog,24,Labrador Retriever,Male,Cream,No Color,Large,Short,No,No,Minor Injury,0,4
+525,Cat,2,Domestic Medium Hair,Female,Black,White,Medium,Medium,No,No,Healthy,0,3
+526,Cat,9,Domestic Short Hair,Female,Black,White,Medium,Medium,No,No,Healthy,0,1
+527,Cat,2,Turkish Van,Male,White,No Color,Small,Short,No,No,Healthy,50,2
+528,Cat,1,Domestic Short Hair,Female,Black,Golden,Medium,Short,No,No,Healthy,0,4
+529,Dog,1,Rottweiler,Male,Black,Brown,Medium,Medium,No,No,Healthy,0,2
+530,Cat,17,Domestic Short Hair,Male,Yellow,No Color,Medium,Short,Yes,No,Healthy,0,5
+531,Dog,4,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,1
+532,Dog,4,Mixed Breed,Female,Golden,White,Medium,Short,No,No,Healthy,0,3
+533,Cat,9,Tuxedo,Male,Black,White,Medium,Short,Yes,Yes,Healthy,0,4
+534,Cat,2,Tortoiseshell,Female,Brown,Golden,Medium,Medium,Yes,No,Healthy,0,11
+535,Dog,36,Golden Retriever,Female,Golden,No Color,Large,Medium,Yes,No,Healthy,0,1
+536,Cat,12,Domestic Long Hair,Male,Golden,No Color,Medium,Long,Yes,Not Sure,Healthy,0,5
+537,Dog,4,Mixed Breed,Male,Brown,White,Medium,Short,No,Not Sure,Healthy,0,1
+538,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,4
+539,Dog,2,Mixed Breed,Female,Brown,White,Medium,Short,No,No,Healthy,0,3
+540,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,7
+541,Dog,18,Jack Russell Terrier,Female,Brown,White,Small,Short,Yes,No,Healthy,0,1
+542,Dog,74,Shih Tzu,Male,Brown,White,Medium,Medium,Not Sure,Not Sure,Healthy,0,2
+543,Dog,8,Mixed Breed,Female,White,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+544,Cat,4,Calico,Female,Black,Brown,Medium,Medium,No,No,Healthy,50,3
+545,Dog,24,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,50,4
+546,Cat,2,Domestic Short Hair,Female,Brown,No Color,Small,Short,Not Sure,No,Healthy,0,3
+547,Dog,2,Mixed Breed,Female,Black,Brown,Small,Short,Not Sure,No,Healthy,0,4
+548,Dog,12,Mixed Breed,Female,White,No Color,Medium,Short,Yes,Yes,Healthy,0,28
+549,Cat,29,Persian,Female,Black,Brown,Medium,Long,Not Sure,Not Sure,Healthy,0,2
+550,Cat,2,Siamese,Male,Brown,Gray,Medium,Medium,No,No,Healthy,150,7
+551,Dog,36,Mixed Breed,Female,Black,Brown,Medium,Short,No,Yes,Healthy,0,2
+552,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,4
+553,Dog,1,Mixed Breed,Male,Brown,Gray,Small,Medium,No,Not Sure,Healthy,0,3
+554,Dog,8,Spitz,Female,Brown,Cream,Small,Medium,No,Yes,Healthy,50,4
+555,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,3
+556,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,3
+557,Cat,12,Siamese,Female,Brown,Gray,Medium,Short,Yes,Yes,Healthy,0,7
+558,Cat,9,Siamese,Male,Brown,White,Large,Short,Yes,No,Healthy,0,5
+559,Dog,12,Mixed Breed,Male,Brown,No Color,Medium,Medium,Yes,Yes,Healthy,0,1
+560,Cat,4,Siamese,Male,Cream,White,Medium,Medium,No,No,Healthy,50,2
+561,Cat,2,Domestic Short Hair,Male,Black,White,Medium,Medium,No,No,Healthy,0,4
+562,Cat,1,Domestic Short Hair,Male,Golden,White,Small,Short,No,No,Healthy,0,4
+563,Cat,1,Tabby,Male,Gray,No Color,Small,Short,No,No,Healthy,0,7
+564,Dog,24,Terrier,Female,Black,Brown,Large,Medium,Yes,Yes,Healthy,0,2
+565,Cat,36,Siamese,Female,Cream,Gray,Large,Medium,No,Yes,Healthy,0,8
+566,Cat,24,Domestic Short Hair,Male,Brown,White,Medium,Short,Yes,No,Healthy,0,4
+567,Cat,1,Domestic Long Hair,Female,Black,White,Medium,Long,Yes,No,Healthy,0,10
+568,Dog,1,Mixed Breed,Female,White,No Color,Medium,Short,Yes,No,Healthy,0,2
+569,Dog,30,Cocker Spaniel,Female,Brown,No Color,Medium,Medium,Yes,Yes,Healthy,350,2
+570,Dog,2,Mixed Breed,Female,Black,Yellow,Medium,Short,Yes,No,Healthy,0,4
+571,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Short,No,No,Healthy,0,3
+572,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,5
+573,Dog,27,Mixed Breed,Female,Brown,White,Medium,Medium,Yes,Yes,Healthy,0,1
+574,Cat,2,Domestic Short Hair,Female,Gray,White,Small,Short,No,No,Healthy,0,5
+575,Dog,2,Mixed Breed,Male,Black,White,Medium,Short,Yes,No,Healthy,0,18
+576,Dog,17,Pug,Male,White,No Color,Medium,Short,Yes,No,Healthy,0,1
+577,Cat,1,Domestic Medium Hair,Female,Black,White,Small,Short,No,No,Healthy,0,3
+578,Dog,2,Mixed Breed,Male,Black,No Color,Medium,Medium,No,No,Healthy,0,5
+579,Cat,3,Domestic Short Hair,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,1
+580,Cat,2,Domestic Short Hair,Female,Brown,Golden,Medium,Short,No,No,Healthy,10,4
+581,Cat,12,Siamese,Male,Brown,Cream,Medium,Short,Yes,No,Healthy,50,5
+582,Cat,3,Domestic Short Hair,Female,Black,Gray,Medium,Short,Yes,No,Healthy,0,9
+583,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,Not Sure,No,Healthy,0,3
+584,Dog,12,Mixed Breed,Female,Brown,Golden,Small,Short,Not Sure,Not Sure,Healthy,0,5
+585,Cat,36,Domestic Short Hair,Female,Black,Gray,Medium,Long,Yes,Not Sure,Healthy,300,2
+586,Dog,72,Labrador Retriever,Female,Golden,Yellow,Medium,Short,Yes,Yes,Healthy,0,6
+587,Dog,30,Border Collie,Female,Black,White,Medium,Short,Yes,Yes,Healthy,0,3
+588,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Long,No,No,Healthy,0,6
+589,Dog,3,Mixed Breed,Female,Black,White,Medium,Short,Yes,No,Healthy,0,9
+590,Dog,3,Miniature Pinscher,Female,Black,Brown,Medium,Short,No,No,Healthy,0,3
+591,Cat,8,Ragdoll,Female,Brown,Cream,Medium,Long,No,No,Healthy,0,4
+592,Cat,12,Domestic Medium Hair,Female,Brown,No Color,Medium,Medium,Yes,Yes,Healthy,100,3
+593,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,3
+594,Cat,2,Bengal,Male,Golden,White,Small,Short,No,No,Healthy,0,3
+595,Dog,3,Beagle,Female,Brown,White,Medium,Short,Yes,No,Healthy,0,3
+596,Dog,2,Mixed Breed,Female,Black,White,Medium,Medium,No,No,Healthy,0,3
+597,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,2
+598,Cat,2,Domestic Short Hair,Female,Gray,White,Medium,Medium,No,No,Healthy,0,3
+599,Cat,7,Domestic Long Hair,Female,Black,Gray,Medium,Long,Not Sure,Not Sure,Healthy,250,1
+600,Cat,6,Domestic Short Hair,Female,Golden,Yellow,Large,Short,Yes,No,Healthy,0,3
+601,Cat,1,Persian,Female,Black,Brown,Large,Long,No,No,Healthy,100,5
+602,Dog,24,Mixed Breed,Female,Brown,Cream,Small,Medium,Not Sure,Not Sure,Healthy,0,2
+603,Cat,4,Sphynx (hairless cat),Female,Yellow,Cream,Small,Short,No,No,Minor Injury,0,2
+604,Dog,2,Mixed Breed,Female,Black,Brown,Small,Short,No,No,Healthy,0,1
+605,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,4
+606,Dog,36,Golden Retriever,Female,Golden,No Color,Large,Long,No,No,Minor Injury,0,5
+607,Cat,3,Domestic Short Hair,Female,Black,White,Medium,Medium,No,No,Healthy,0,3
+608,Dog,12,Mixed Breed,Female,White,No Color,Small,Short,Yes,Yes,Healthy,0,3
+609,Cat,12,Domestic Medium Hair,Male,Golden,White,Medium,Medium,No,No,Healthy,50,3
+610,Cat,18,Domestic Short Hair,Female,Brown,White,Large,Short,No,No,Healthy,0,4
+611,Cat,14,Domestic Short Hair,Female,Brown,No Color,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+612,Dog,1,Mixed Breed,Female,Black,White,Medium,Medium,No,No,Healthy,0,11
+613,Cat,1,Domestic Medium Hair,Male,White,No Color,Medium,Medium,No,No,Healthy,0,3
+614,Cat,1,Domestic Medium Hair,Male,Black,White,Medium,Medium,No,No,Healthy,0,3
+615,Cat,4,Tabby,Male,Yellow,White,Small,Short,No,Not Sure,Healthy,150,4
+616,Cat,7,Domestic Short Hair,Male,Golden,White,Medium,Short,No,No,Healthy,0,1
+617,Cat,6,Bengal,Female,Brown,White,Medium,Medium,Yes,Not Sure,Healthy,0,6
+618,Cat,9,Siamese,Female,Brown,Cream,Medium,Medium,Yes,Yes,Healthy,0,3
+619,Dog,1,Terrier,Female,Black,Brown,Medium,Short,No,No,Healthy,0,2
+620,Dog,24,Golden Retriever,Male,Golden,No Color,Large,Medium,Not Sure,Yes,Healthy,0,2
+621,Dog,4,Mixed Breed,Female,Cream,No Color,Small,Long,No,No,Healthy,0,3
+622,Dog,4,Mixed Breed,Female,Brown,White,Medium,Short,Yes,No,Healthy,0,1
+623,Cat,6,Domestic Short Hair,Female,Yellow,White,Small,Short,Yes,Yes,Healthy,150,2
+624,Dog,2,Doberman Pinscher,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,3
+625,Dog,36,Poodle,Female,Cream,No Color,Small,Short,Yes,Yes,Healthy,0,1
+626,Dog,2,Mixed Breed,Male,Brown,Golden,Medium,Medium,No,No,Healthy,50,3
+627,Cat,3,Siamese,Female,Brown,Cream,Medium,Short,Yes,No,Healthy,60,2
+628,Dog,5,Mixed Breed,Male,Brown,No Color,Small,Short,Yes,No,Healthy,0,5
+629,Cat,3,Domestic Short Hair,Male,Black,Gray,Small,Medium,Not Sure,Not Sure,Healthy,0,4
+630,Dog,2,Mixed Breed,Female,Black,White,Medium,Medium,No,No,Healthy,0,6
+631,Cat,6,Tabby,Male,Golden,Cream,Medium,Short,No,No,Healthy,50,3
+632,Cat,1,Siamese,Female,Gray,No Color,Medium,Medium,No,No,Healthy,0,1
+633,Cat,1,Domestic Medium Hair,Male,Black,Gray,Medium,Medium,No,No,Healthy,50,3
+634,Cat,12,Persian,Male,White,No Color,Medium,Short,Yes,Not Sure,Healthy,0,0
+635,Cat,5,Ragdoll,Female,Yellow,Gray,Medium,Short,No,No,Healthy,0,2
+636,Cat,2,Domestic Short Hair,Female,Black,White,Medium,Short,No,No,Healthy,0,5
+637,Cat,4,Domestic Long Hair,Female,Black,Brown,Medium,Long,Yes,No,Healthy,0,5
+638,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,1
+639,Cat,2,Domestic Short Hair,Female,Brown,Golden,Medium,Short,No,No,Healthy,0,5
+640,Dog,30,Poodle,Female,Cream,White,Medium,Short,Yes,No,Healthy,0,2
+641,Dog,2,Mixed Breed,Female,Black,White,Medium,Medium,Yes,No,Healthy,0,1
+642,Cat,12,Domestic Short Hair,Male,Black,Brown,Small,Short,Not Sure,Not Sure,Healthy,0,3
+643,Dog,12,Mixed Breed,Male,Brown,White,Medium,Short,Yes,Yes,Healthy,0,1
+644,Dog,24,Mixed Breed,Female,Cream,White,Medium,Medium,Yes,Yes,Healthy,0,2
+645,Cat,4,Domestic Medium Hair,Female,Black,White,Medium,Medium,No,No,Healthy,0,10
+646,Dog,10,Saint Bernard,Male,Brown,White,Medium,Medium,Yes,No,Healthy,0,4
+647,Dog,1,Mixed Breed,Female,Brown,No Color,Medium,Short,No,No,Healthy,0,2
+648,Dog,48,Shih Tzu,Male,Black,Brown,Small,Long,No,No,Healthy,50,1
+649,Dog,8,Mixed Breed,Female,Gray,No Color,Medium,Short,Yes,Yes,Healthy,0,2
+650,Cat,3,Domestic Short Hair,Female,Black,White,Small,Short,No,No,Healthy,0,1
+651,Dog,84,Shih Tzu,Female,Golden,White,Small,Long,Yes,Yes,Healthy,180,3
+652,Dog,8,Mixed Breed,Female,White,No Color,Medium,Medium,Yes,No,Healthy,0,5
+653,Dog,18,Beagle,Male,Golden,White,Medium,Short,Yes,Yes,Healthy,0,2
+654,Dog,3,Mixed Breed,Female,Cream,No Color,Medium,Medium,No,No,Healthy,0,6
+655,Dog,18,Mixed Breed,Male,Brown,Yellow,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+656,Dog,3,Mixed Breed,Male,Brown,White,Medium,Medium,Yes,No,Healthy,200,2
+657,Cat,3,Domestic Short Hair,Male,White,No Color,Small,Short,No,No,Healthy,0,3
+658,Dog,4,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,3
+659,Cat,6,Domestic Short Hair,Male,Yellow,No Color,Large,Short,No,No,Healthy,0,4
+660,Cat,6,Domestic Short Hair,Female,Brown,Yellow,Medium,Short,Yes,Yes,Healthy,0,5
+661,Cat,48,Domestic Short Hair,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,2
+662,Dog,24,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,1
+663,Dog,84,Shih Tzu,Female,Brown,Golden,Small,Short,Yes,No,Healthy,0,1
+664,Cat,12,Domestic Long Hair,Female,Black,Brown,Medium,Long,Not Sure,Not Sure,Healthy,0,1
+665,Cat,4,Domestic Short Hair,Male,Black,Brown,Medium,Medium,No,No,Healthy,99,5
+666,Dog,33,Labrador Retriever,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,4
+667,Cat,4,Domestic Short Hair,Female,Yellow,White,Medium,Short,No,No,Healthy,15,3
+668,Cat,12,Domestic Short Hair,Female,White,No Color,Small,Short,Not Sure,Not Sure,Healthy,0,1
+669,Dog,12,Mixed Breed,Female,Brown,Cream,Medium,Short,Yes,Yes,Healthy,0,3
+670,Dog,2,Mixed Breed,Female,Brown,White,Medium,Medium,No,No,Healthy,0,1
+671,Cat,3,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,30,5
+672,Dog,1,Mixed Breed,Female,Black,No Color,Medium,Short,No,No,Healthy,0,1
+673,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Medium,No,No,Healthy,0,5
+674,Cat,1,Domestic Short Hair,Female,Golden,Yellow,Medium,Short,No,No,Healthy,0,8
+675,Cat,2,Domestic Short Hair,Male,Golden,Cream,Medium,Short,No,No,Healthy,0,10
+676,Dog,5,Poodle,Male,Brown,No Color,Small,Medium,Yes,No,Healthy,0,1
+677,Cat,6,Domestic Short Hair,Male,Gray,White,Medium,Short,Yes,Yes,Healthy,50,0
+678,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,1
+679,Cat,2,Domestic Short Hair,Male,White,No Color,Medium,Short,No,No,Healthy,0,6
+680,Dog,60,Mixed Breed,Male,Golden,No Color,Medium,Medium,Yes,Yes,Healthy,0,3
+681,Dog,12,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+682,Cat,5,Himalayan,Female,Black,Gray,Medium,Medium,Not Sure,Not Sure,Healthy,0,13
+683,Dog,3,Mixed Breed,Male,Brown,White,Small,Short,Yes,No,Healthy,0,3
+684,Cat,2,Domestic Medium Hair,Male,Black,Gray,Small,Medium,No,No,Minor Injury,0,3
+685,Cat,1,Domestic Short Hair,Female,Black,No Color,Medium,Short,No,No,Healthy,0,2
+686,Cat,1,Domestic Short Hair,Male,Black,Gray,Small,Short,No,No,Healthy,30,8
+687,Cat,2,Domestic Short Hair,Female,Black,Brown,Small,Short,No,No,Healthy,0,7
+688,Dog,36,Golden Retriever,Male,Golden,No Color,Medium,Medium,Yes,Yes,Healthy,0,2
+689,Dog,1,Mixed Breed,Female,Brown,Cream,Medium,Medium,Yes,No,Healthy,40,1
+690,Dog,12,Mixed Breed,Male,Brown,Golden,Medium,Short,Yes,No,Healthy,0,5
+691,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,No,Healthy,0,1
+692,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,1
+693,Dog,2,Mixed Breed,Male,Black,No Color,Medium,Medium,No,No,Healthy,0,1
+694,Dog,4,Mixed Breed,Female,Yellow,White,Medium,Short,Not Sure,Not Sure,Healthy,100,1
+695,Cat,1,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,15,7
+696,Cat,2,Domestic Short Hair,Female,Gray,White,Small,Short,No,No,Healthy,0,13
+697,Cat,3,Domestic Medium Hair,Female,Black,Yellow,Medium,Medium,No,Not Sure,Healthy,0,1
+698,Dog,49,Golden Retriever,Male,Golden,Yellow,Large,Medium,Yes,No,Healthy,0,2
+699,Cat,6,American Shorthair,Male,Yellow,White,Small,Short,No,No,Healthy,0,3
+700,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,3
+701,Dog,8,Pit Bull Terrier,Female,Brown,White,Large,Short,Yes,No,Healthy,100,4
+702,Dog,2,Terrier,Female,Brown,Cream,Large,Medium,Yes,No,Healthy,0,6
+703,Dog,5,Mixed Breed,Female,Brown,No Color,Medium,Medium,Not Sure,No,Healthy,0,7
+704,Dog,19,Mixed Breed,Female,White,No Color,Large,Short,No,No,Healthy,0,13
+705,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Healthy,0,1
+706,Dog,24,Golden Retriever,Female,Yellow,No Color,Large,Medium,Not Sure,No,Healthy,400,1
+707,Dog,2,Mixed Breed,Female,Brown,White,Medium,Medium,Not Sure,No,Healthy,0,2
+708,Cat,2,Domestic Short Hair,Female,Brown,White,Medium,Short,No,No,Healthy,0,3
+709,Dog,8,Golden Retriever,Male,Brown,No Color,Small,Short,Yes,No,Healthy,600,5
+710,Dog,24,Terrier,Male,White,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,100,3
+711,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,3
+712,Cat,3,Domestic Medium Hair,Female,Black,Brown,Medium,Medium,No,No,Healthy,300,4
+713,Cat,2,Domestic Short Hair,Female,Brown,Cream,Medium,Medium,No,No,Healthy,20,4
+714,Cat,4,Domestic Short Hair,Male,Black,Brown,Small,Short,No,No,Healthy,0,6
+715,Cat,2,Oriental Short Hair,Male,Black,Golden,Medium,Short,No,No,Healthy,8,10
+716,Cat,3,Domestic Short Hair,Female,Black,Gray,Medium,Short,Yes,No,Healthy,0,3
+717,Cat,3,Domestic Medium Hair,Male,Gray,White,Medium,Medium,Yes,No,Healthy,50,7
+718,Dog,7,Mixed Breed,Female,Black,No Color,Medium,Medium,Yes,Yes,Healthy,0,2
+719,Cat,8,American Shorthair,Male,Cream,Gray,Large,Medium,Not Sure,No,Healthy,0,4
+720,Dog,0,Terrier,Female,Black,No Color,Small,Medium,Not Sure,Not Sure,Minor Injury,0,3
+721,Dog,24,Mixed Breed,Male,Brown,Gray,Medium,Short,Yes,Yes,Healthy,0,1
+722,Dog,1,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Healthy,0,1
+723,Dog,2,Mixed Breed,Female,Gray,No Color,Medium,Medium,Yes,No,Healthy,0,4
+724,Dog,17,Mixed Breed,Male,Cream,White,Medium,Medium,Yes,Not Sure,Healthy,100,2
+725,Dog,8,Mixed Breed,Female,Black,No Color,Medium,Short,Yes,No,Healthy,0,9
+726,Dog,12,Mixed Breed,Male,Cream,No Color,Medium,Short,Not Sure,Not Sure,Healthy,0,5
+727,Cat,3,Domestic Short Hair,Female,Brown,Golden,Medium,Short,No,No,Healthy,0,4
+728,Dog,2,Mixed Breed,Female,Brown,No Color,Large,Short,No,No,Healthy,0,1
+729,Dog,1,Labrador Retriever,Female,Black,Yellow,Medium,Short,No,No,Healthy,0,1
+730,Dog,6,Doberman Pinscher,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,1
+731,Dog,3,Mixed Breed,Male,Black,White,Medium,Short,Yes,No,Healthy,0,15
+732,Dog,2,Mixed Breed,Female,Yellow,No Color,Medium,Medium,No,No,Healthy,0,0
+733,Cat,2,Tuxedo,Female,Black,White,Small,Short,No,No,Healthy,0,4
+734,Cat,212,Domestic Short Hair,Female,Black,No Color,Medium,Short,Yes,No,Healthy,0,13
+735,Cat,60,Calico,Female,Black,Golden,Medium,Medium,Yes,Yes,Healthy,0,1
+736,Cat,2,Domestic Long Hair,Female,Black,Yellow,Small,Long,No,No,Healthy,0,2
+737,Dog,34,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,100,4
+738,Cat,4,Domestic Medium Hair,Female,Golden,Yellow,Medium,Medium,No,No,Healthy,0,4
+739,Cat,3,Domestic Short Hair,Male,White,No Color,Medium,Short,Not Sure,No,Healthy,0,3
+740,Dog,3,Mixed Breed,Female,Brown,White,Medium,Short,No,No,Healthy,0,3
+741,Dog,24,Mixed Breed,Female,Black,No Color,Large,Medium,Yes,Yes,Minor Injury,0,2
+742,Dog,6,Chihuahua,Female,Brown,White,Small,Short,Yes,No,Healthy,0,6
+743,Dog,9,Mixed Breed,Male,Brown,White,Medium,Short,Yes,Yes,Healthy,0,6
+744,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,100,2
+745,Dog,1,Australian Kelpie,Male,Black,White,Medium,Short,No,No,Healthy,0,4
+746,Dog,4,Doberman Pinscher,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,6
+747,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,5
+748,Cat,1,Calico,Female,Black,Brown,Small,Short,No,No,Healthy,0,2
+749,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,2
+750,Cat,6,Domestic Long Hair,Male,Yellow,Cream,Medium,Medium,Not Sure,No,Healthy,30,2
+751,Cat,2,Domestic Medium Hair,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,4
+752,Cat,2,Domestic Short Hair,Male,Brown,White,Medium,Short,No,No,Healthy,0,10
+753,Dog,3,Mixed Breed,Male,Brown,White,Medium,Short,No,No,Minor Injury,0,5
+754,Cat,2,Siamese,Male,Cream,Gray,Medium,Medium,No,No,Healthy,0,1
+755,Cat,22,Domestic Short Hair,Female,Brown,White,Medium,Medium,Yes,Yes,Healthy,0,1
+756,Cat,1,Calico,Female,Black,Yellow,Large,Medium,No,No,Healthy,0,4
+757,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Medium,Yes,No,Healthy,0,0
+758,Dog,1,Mixed Breed,Female,Black,No Color,Medium,Medium,No,No,Healthy,0,1
+759,Cat,2,Domestic Short Hair,Female,Brown,Cream,Medium,Short,No,No,Healthy,20,3
+760,Dog,3,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,No,Healthy,0,1
+761,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,2
+762,Cat,1,Domestic Medium Hair,Female,Black,Golden,Small,Medium,No,No,Healthy,50,5
+763,Cat,1,Domestic Short Hair,Male,Yellow,White,Medium,Short,No,No,Healthy,0,3
+764,Dog,5,Mixed Breed,Female,Brown,Golden,Medium,Short,Yes,Yes,Healthy,0,26
+765,Cat,2,Siamese,Female,Gray,No Color,Small,Short,Not Sure,No,Healthy,0,4
+766,Dog,26,Miniature Pinscher,Female,Brown,No Color,Small,Medium,Yes,No,Healthy,100,2
+767,Cat,6,Abyssinian,Female,Black,Gray,Small,Long,Not Sure,Not Sure,Minor Injury,0,3
+768,Cat,2,Domestic Short Hair,Female,Black,Gray,Medium,Short,No,No,Healthy,0,7
+769,Cat,2,Domestic Medium Hair,Female,Yellow,White,Medium,Medium,No,No,Minor Injury,0,4
+770,Cat,12,Domestic Short Hair,Male,Black,Brown,Large,Short,Not Sure,No,Healthy,0,3
+771,Cat,7,Tabby,Male,Black,Brown,Large,Short,Yes,No,Healthy,0,2
+772,Cat,3,Domestic Short Hair,Male,Yellow,Cream,Medium,Short,No,No,Healthy,0,3
+773,Cat,1,Terrier,Male,Brown,White,Large,Long,No,No,Healthy,25,3
+774,Dog,2,Mixed Breed,Female,Black,No Color,Medium,Short,No,No,Healthy,0,1
+775,Dog,5,Mixed Breed,Female,White,No Color,Medium,Short,No,No,Healthy,20,1
+776,Cat,2,Domestic Short Hair,Female,Black,White,Medium,Short,No,No,Healthy,0,3
+777,Dog,5,Mixed Breed,Female,Black,White,Large,Short,Yes,No,Healthy,0,1
+778,Dog,1,Mixed Breed,Female,Black,White,Medium,Short,No,No,Healthy,0,6
+779,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,4
+780,Cat,2,Tabby,Female,Black,White,Medium,Medium,Yes,No,Healthy,50,4
+781,Cat,2,Domestic Short Hair,Female,Black,Brown,Small,Short,No,No,Healthy,0,6
+782,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,4
+783,Dog,2,Rottweiler,Male,Black,Brown,Medium,Medium,No,No,Healthy,150,11
+784,Dog,3,Mixed Breed,Female,Black,Cream,Medium,Short,Yes,Not Sure,Healthy,100,2
+785,Dog,1,Mixed Breed,Male,Black,White,Medium,Short,No,No,Healthy,0,1
+786,Cat,2,Domestic Medium Hair,Male,Brown,No Color,Large,Medium,No,Not Sure,Healthy,0,2
+787,Dog,12,Mixed Breed,Male,Yellow,White,Medium,Short,Yes,Yes,Healthy,0,4
+788,Dog,24,Mixed Breed,Female,Cream,No Color,Medium,Short,Yes,Yes,Healthy,80,3
+789,Dog,2,Mixed Breed,Male,Cream,No Color,Medium,Medium,Yes,No,Healthy,0,1
+790,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,4
+791,Cat,1,Domestic Short Hair,Male,Golden,White,Small,Short,No,No,Healthy,0,4
+792,Cat,2,Domestic Short Hair,Female,Black,Gray,Small,Short,No,No,Healthy,0,5
+793,Dog,24,English Bulldog,Male,Black,No Color,Medium,Medium,Yes,No,Healthy,0,1
+794,Dog,1,Mixed Breed,Male,Black,Brown,Small,Short,No,Not Sure,Healthy,0,4
+795,Dog,24,Mixed Breed,Male,Brown,White,Medium,Short,No,Yes,Healthy,0,3
+796,Dog,5,Mixed Breed,Male,Golden,No Color,Medium,Short,Yes,No,Healthy,0,2
+797,Cat,10,Persian,Male,Brown,Cream,Large,Long,Yes,No,Healthy,100,2
+798,Cat,9,Domestic Short Hair,Male,Black,Yellow,Medium,Medium,No,No,Minor Injury,0,1
+799,Dog,2,Mixed Breed,Female,White,No Color,Large,Short,Yes,No,Healthy,0,1
+800,Dog,30,Mixed Breed,Female,Black,Golden,Medium,Short,Yes,Yes,Healthy,0,1
+801,Dog,5,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,0
+802,Dog,9,Shepherd,Female,Black,No Color,Large,Medium,Yes,Yes,Healthy,0,1
+803,Dog,24,Mixed Breed,Male,Golden,Yellow,Small,Short,Not Sure,No,Healthy,0,5
+804,Dog,72,Bull Terrier,Male,Black,Brown,Large,Short,Yes,Yes,Healthy,0,1
+805,Cat,4,Siamese,Male,Cream,No Color,Medium,Short,Yes,No,Healthy,0,1
+806,Cat,0,Domestic Short Hair,Male,Black,No Color,Small,Short,No,No,Healthy,0,2
+807,Cat,3,Domestic Medium Hair,Male,Brown,White,Small,Medium,No,No,Healthy,0,5
+808,Cat,12,Domestic Short Hair,Female,Gray,White,Medium,Short,Yes,Yes,Healthy,0,15
+809,Dog,2,Mixed Breed,Male,Brown,No Color,Medium,Short,Yes,No,Healthy,0,3
+810,Dog,12,Labrador Retriever,Female,Brown,Cream,Small,Long,Yes,Yes,Healthy,0,4
+811,Cat,1,Domestic Short Hair,Male,Black,White,Small,Short,Not Sure,Not Sure,Healthy,0,1
+812,Dog,6,Mixed Breed,Female,Black,Brown,Small,Short,Yes,No,Healthy,0,2
+813,Cat,36,Domestic Long Hair,Male,Black,Gray,Large,Long,No,Yes,Healthy,0,8
+814,Cat,3,Tuxedo,Female,Black,White,Small,Long,Not Sure,No,Healthy,0,6
+815,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,200,1
+816,Dog,2,Mixed Breed,Female,Brown,Cream,Medium,Short,No,No,Healthy,0,6
+817,Cat,21,Domestic Short Hair,Male,Black,White,Medium,Short,Yes,Yes,Healthy,0,3
+818,Dog,24,Mixed Breed,Female,Brown,No Color,Small,Short,No,No,Healthy,0,0
+819,Cat,11,Domestic Short Hair,Male,Black,White,Medium,Short,Yes,Yes,Healthy,0,3
+820,Cat,2,Tabby,Female,Brown,No Color,Medium,Short,No,No,Healthy,0,2
+821,Dog,2,Mixed Breed,Male,Brown,White,Medium,Medium,Yes,No,Healthy,0,3
+822,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,1
+823,Dog,1,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Minor Injury,50,5
+824,Cat,1,Domestic Short Hair,Female,Brown,Yellow,Small,Short,No,No,Healthy,0,6
+825,Cat,61,Domestic Short Hair,Male,White,No Color,Large,Short,Yes,Yes,Healthy,0,6
+826,Dog,24,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,3
+827,Dog,3,Mixed Breed,Male,Black,White,Small,Short,Not Sure,Not Sure,Healthy,0,5
+828,Cat,16,Domestic Short Hair,Female,Black,Gray,Medium,Medium,Yes,Yes,Healthy,0,3
+829,Cat,8,Domestic Short Hair,Male,Golden,Yellow,Small,Short,No,Not Sure,Healthy,0,8
+830,Cat,12,Domestic Short Hair,Female,Brown,White,Medium,Medium,No,Not Sure,Healthy,0,5
+831,Dog,5,Belgian Shepherd Malinois,Female,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,3
+832,Cat,48,Domestic Long Hair,Male,White,No Color,Large,Long,Yes,Yes,Healthy,300,3
+833,Cat,2,Siamese,Female,Cream,No Color,Medium,Short,Yes,No,Healthy,0,3
+834,Cat,3,Domestic Short Hair,Female,Gray,White,Small,Short,No,No,Healthy,0,10
+835,Cat,36,British Shorthair,Female,Brown,White,Medium,Short,Yes,Yes,Healthy,250,1
+836,Cat,5,Domestic Long Hair,Male,Yellow,No Color,Medium,Medium,No,No,Healthy,0,2
+837,Cat,1,Domestic Short Hair,Male,Brown,Gray,Medium,Short,No,No,Healthy,0,2
+838,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,1
+839,Cat,6,Domestic Short Hair,Female,Brown,White,Medium,Short,Yes,No,Healthy,0,1
+840,Dog,1,Mixed Breed,Female,Brown,Cream,Medium,Short,No,No,Healthy,0,11
+841,Dog,6,Mixed Breed,Male,Brown,No Color,Medium,Medium,Yes,Yes,Healthy,0,1
+842,Dog,3,Mixed Breed,Female,Brown,Cream,Large,Short,Yes,No,Healthy,0,15
+843,Dog,24,Husky,Female,Black,White,Large,Medium,Yes,No,Healthy,0,2
+844,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Medium,Yes,No,Healthy,0,3
+845,Cat,24,Domestic Long Hair,Male,Gray,White,Large,Long,Yes,Yes,Healthy,250,5
+846,Cat,3,Domestic Medium Hair,Female,Golden,White,Medium,Medium,Yes,Yes,Healthy,0,2
+847,Dog,1,Mixed Breed,Female,White,No Color,Medium,Medium,No,No,Healthy,0,1
+848,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,100,4
+849,Dog,3,Mixed Breed,Male,Brown,Cream,Medium,Short,Yes,No,Healthy,0,3
+850,Cat,12,Domestic Short Hair,Female,Black,Brown,Small,Short,Yes,Yes,Healthy,0,7
+851,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,7
+852,Cat,2,Domestic Short Hair,Female,Black,Yellow,Small,Short,Yes,No,Healthy,0,2
+853,Cat,1,Persian,Female,Golden,Gray,Medium,Long,Yes,No,Healthy,150,6
+854,Cat,1,Domestic Medium Hair,Female,Black,Gray,Medium,Medium,No,No,Healthy,0,3
+855,Dog,8,Mixed Breed,Female,Brown,Cream,Medium,Short,Yes,Yes,Healthy,0,8
+856,Dog,3,Mixed Breed,Female,Black,No Color,Medium,Medium,Yes,No,Healthy,0,9
+857,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Medium,No,No,Healthy,0,2
+858,Cat,24,Persian,Female,Yellow,No Color,Medium,Long,No,Yes,Healthy,50,2
+859,Dog,3,Mixed Breed,Female,Black,White,Medium,Short,Yes,No,Healthy,0,0
+860,Cat,4,Domestic Medium Hair,Male,Black,Gray,Medium,Medium,Yes,Yes,Healthy,0,10
+861,Dog,60,Beagle,Male,Brown,Cream,Medium,Short,Yes,No,Healthy,0,1
+862,Dog,12,Terrier,Male,Gray,White,Medium,Short,Yes,Yes,Healthy,0,10
+863,Dog,4,Mixed Breed,Male,Black,White,Medium,Short,Yes,No,Healthy,0,1
+864,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,20,1
+865,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Healthy,0,7
+866,Dog,36,Terrier,Female,Brown,Golden,Medium,Long,Yes,Yes,Healthy,0,3
+867,Cat,7,Tabby,Male,Gray,White,Medium,Long,No,No,Healthy,0,3
+868,Cat,2,Tabby,Male,Golden,White,Medium,Short,No,No,Healthy,0,2
+869,Dog,2,Mixed Breed,Female,Brown,No Color,Small,Short,Not Sure,Not Sure,Healthy,0,2
+870,Cat,3,Domestic Medium Hair,Female,Brown,White,Small,Medium,Yes,No,Healthy,0,3
+871,Dog,11,Mixed Breed,Female,Brown,Cream,Small,Short,Not Sure,No,Healthy,0,6
+872,Dog,18,Mixed Breed,Female,Brown,White,Medium,Medium,Yes,Yes,Healthy,0,7
+873,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,Not Sure,No,Healthy,0,2
+874,Cat,18,Domestic Medium Hair,Female,Golden,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,100,6
+875,Dog,8,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,Yes,Healthy,150,11
+876,Cat,4,Domestic Medium Hair,Male,Black,Brown,Medium,Medium,No,No,Healthy,0,4
+877,Dog,3,Pit Bull Terrier,Male,Brown,No Color,Medium,Short,Yes,No,Healthy,0,1
+878,Dog,2,Mixed Breed,Male,Brown,No Color,Medium,Medium,Yes,No,Healthy,0,1
+879,Dog,2,Border Collie,Female,Black,White,Medium,Long,Yes,Yes,Healthy,0,1
+880,Cat,8,Ragdoll,Female,Golden,White,Medium,Medium,No,No,Healthy,250,2
+881,Dog,72,Labrador Retriever,Male,Cream,No Color,Large,Short,Yes,No,Healthy,0,6
+882,Cat,1,Domestic Medium Hair,Male,Black,White,Small,Medium,No,No,Healthy,0,1
+883,Dog,2,Mixed Breed,Male,Black,No Color,Medium,Short,Yes,No,Healthy,0,1
+884,Cat,1,Tabby,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,2
+885,Dog,60,Golden Retriever,Male,Golden,No Color,Large,Medium,Not Sure,Not Sure,Healthy,0,1
+886,Cat,4,Siamese,Male,Brown,Cream,Small,Medium,No,No,Healthy,0,4
+887,Dog,36,Jack Russell Terrier (Parson Russell Terrier),Female,Brown,White,Small,Medium,Yes,Yes,Healthy,0,1
+888,Cat,15,Bobtail,Female,Cream,No Color,Medium,Medium,Yes,Yes,Healthy,200,2
+889,Dog,17,Shih Tzu,Male,Black,Brown,Medium,Long,Yes,No,Minor Injury,350,14
+890,Dog,60,Rottweiler,Male,Black,Brown,Large,Short,Yes,Yes,Healthy,350,3
+891,Cat,12,Persian,Female,Gray,No Color,Medium,Long,No,No,Healthy,200,3
+892,Dog,3,Terrier,Male,Black,No Color,Large,Long,Yes,No,Healthy,0,1
+893,Cat,6,Domestic Short Hair,Male,Brown,No Color,Medium,Short,Yes,No,Healthy,0,4
+894,Dog,4,Mixed Breed,Female,Golden,Yellow,Medium,Short,Yes,No,Healthy,0,1
+895,Cat,3,Domestic Short Hair,Female,Yellow,White,Medium,Short,Yes,No,Healthy,0,3
+896,Cat,12,Domestic Short Hair,Male,Golden,Yellow,Small,Short,No,Yes,Healthy,50,4
+897,Dog,4,Australian Kelpie,Male,Black,Brown,Medium,Long,Yes,Yes,Healthy,0,3
+898,Cat,3,Domestic Short Hair,Male,Brown,Golden,Medium,Short,Yes,No,Healthy,10,8
+899,Dog,8,Mixed Breed,Female,White,No Color,Medium,Long,Yes,Yes,Healthy,0,4
+900,Dog,72,Poodle,Male,Brown,Cream,Medium,Short,Not Sure,Not Sure,Healthy,200,2
+901,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,1
+902,Dog,2,Mixed Breed,Male,Golden,Cream,Medium,Short,No,No,Healthy,0,4
+903,Cat,12,Domestic Short Hair,Male,Brown,White,Medium,Short,Yes,Yes,Healthy,0,4
+904,Cat,10,Domestic Medium Hair,Female,Black,Yellow,Medium,Medium,Yes,Yes,Healthy,0,4
+905,Cat,14,Domestic Long Hair,Male,Cream,No Color,Large,Medium,Not Sure,No,Minor Injury,0,2
+906,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,30,4
+907,Dog,15,Poodle,Female,Cream,No Color,Medium,Short,Yes,No,Healthy,500,1
+908,Dog,36,Poodle,Female,Black,White,Small,Medium,Not Sure,Not Sure,Healthy,0,1
+909,Dog,2,Terrier,Female,Brown,White,Medium,Short,No,No,Healthy,0,1
+910,Cat,3,Domestic Medium Hair,Female,Golden,No Color,Medium,Medium,No,No,Healthy,0,3
+911,Cat,5,Domestic Short Hair,Female,Brown,Golden,Small,Short,No,No,Healthy,0,3
+912,Cat,4,Abyssinian,Male,White,No Color,Small,Short,No,No,Healthy,1,3
+913,Cat,1,Domestic Long Hair,Male,Black,No Color,Large,Long,No,No,Healthy,125,4
+914,Cat,1,Siamese,Female,Brown,Cream,Small,Short,No,No,Healthy,160,5
+915,Cat,6,Oriental Short Hair,Female,Black,Gray,Medium,Short,Yes,Yes,Healthy,0,2
+916,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,1
+917,Cat,2,Domestic Short Hair,Female,Black,No Color,Small,Short,No,No,Healthy,0,4
+918,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Medium,Not Sure,Not Sure,Healthy,0,5
+919,Cat,4,Domestic Short Hair,Male,Yellow,White,Small,Short,No,No,Healthy,50,6
+920,Cat,12,Domestic Short Hair,Male,Brown,White,Medium,Medium,No,No,Healthy,0,0
+921,Cat,1,Domestic Short Hair,Male,Brown,Gray,Small,Short,No,No,Healthy,0,3
+922,Cat,11,Domestic Short Hair,Male,Brown,Cream,Medium,Short,Yes,Yes,Healthy,0,6
+923,Dog,18,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,6
+924,Cat,3,Domestic Short Hair,Female,Brown,Golden,Medium,Short,No,No,Healthy,0,2
+925,Dog,3,Mixed Breed,Female,Cream,White,Medium,Short,No,No,Healthy,0,5
+926,Dog,2,Mixed Breed,Male,Black,Brown,Medium,Medium,No,No,Healthy,0,5
+927,Dog,2,Mixed Breed,Male,Brown,No Color,Medium,Medium,Yes,No,Healthy,0,1
+928,Cat,12,Domestic Short Hair,Male,Yellow,No Color,Medium,Short,No,Yes,Healthy,0,4
+929,Dog,4,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,Not Sure,Healthy,0,4
+930,Cat,12,Domestic Short Hair,Male,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,2
+931,Cat,6,Domestic Medium Hair,Male,Black,White,Large,Medium,No,No,Healthy,0,4
+932,Cat,4,Domestic Short Hair,Male,Black,White,Small,Short,No,No,Healthy,0,3
+933,Dog,24,Mixed Breed,Male,Brown,White,Small,Medium,Yes,Yes,Healthy,0,7
+934,Dog,11,Golden Retriever,Female,Golden,White,Large,Medium,Yes,No,Healthy,0,1
+935,Dog,2,Black Labrador Retriever,Female,Black,Brown,Medium,Short,Not Sure,No,Healthy,0,3
+936,Dog,9,Mixed Breed,Female,Yellow,Cream,Medium,Short,No,No,Healthy,250,6
+937,Dog,2,Mixed Breed,Female,Black,Brown,Large,Short,No,No,Healthy,0,4
+938,Dog,3,Mixed Breed,Female,Brown,No Color,Large,Medium,Yes,No,Healthy,0,0
+939,Cat,4,Domestic Short Hair,Female,Black,Brown,Small,Short,No,No,Healthy,0,4
+940,Dog,1,Mixed Breed,Female,Brown,White,Medium,Short,No,No,Healthy,50,1
+941,Dog,36,Mixed Breed,Female,Black,Brown,Large,Short,Not Sure,Yes,Healthy,0,0
+942,Dog,7,Mixed Breed,Female,Brown,No Color,Small,Short,Yes,Yes,Healthy,1,4
+943,Dog,6,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+944,Dog,3,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,5
+945,Dog,1,Mixed Breed,Male,Brown,No Color,Medium,Short,No,No,Healthy,0,8
+946,Dog,5,Mixed Breed,Male,Brown,White,Medium,Medium,No,Not Sure,Healthy,0,1
+947,Dog,13,Miniature Pinscher,Female,Golden,No Color,Small,Short,Yes,Yes,Healthy,0,6
+948,Dog,8,Mixed Breed,Female,Golden,No Color,Medium,Short,Yes,Yes,Healthy,0,8
+949,Dog,3,Shar Pei,Male,Cream,White,Large,Short,No,Yes,Healthy,200,10
+950,Cat,10,Tabby,Female,Golden,Yellow,Large,Short,Not Sure,Yes,Healthy,0,5
+951,Cat,2,Domestic Long Hair,Female,Black,No Color,Large,Long,No,Not Sure,Healthy,0,4
+952,Cat,5,Oriental Short Hair,Male,Brown,White,Medium,Short,Yes,Yes,Healthy,0,2
+953,Dog,3,Mixed Breed,Male,Black,Brown,Medium,Short,Yes,No,Healthy,0,7
+954,Cat,4,Domestic Long Hair,Male,Yellow,No Color,Small,Long,Not Sure,Not Sure,Healthy,0,3
+955,Cat,8,Persian,Male,White,No Color,Medium,Short,Not Sure,No,Healthy,100,1
+956,Cat,24,Domestic Long Hair,Male,Black,No Color,Medium,Long,Yes,Yes,Healthy,0,2
+957,Dog,36,West Highland White Terrier Westie,Female,White,No Color,Small,Long,Not Sure,Yes,Healthy,200,3
+958,Dog,4,Doberman Pinscher,Male,Black,Brown,Medium,Medium,Yes,No,Healthy,0,3
+959,Dog,81,Husky,Male,Black,White,Medium,Medium,No,No,Healthy,0,1
+960,Cat,2,Domestic Long Hair,Male,Brown,Golden,Medium,Medium,No,No,Healthy,0,2
+961,Dog,2,Black Labrador Retriever,Female,Black,White,Medium,Short,Yes,No,Healthy,0,4
+962,Dog,48,Schnauzer,Male,Cream,White,Small,Medium,Yes,Yes,Minor Injury,100,2
+963,Cat,1,Domestic Medium Hair,Male,Gray,White,Small,Medium,No,No,Healthy,0,5
+964,Cat,4,Dilute Calico,Male,Black,White,Medium,Medium,No,No,Healthy,0,3
+965,Cat,1,Domestic Medium Hair,Female,Black,White,Medium,Medium,Not Sure,Not Sure,Healthy,0,3
+966,Dog,2,Mixed Breed,Female,Brown,No Color,Small,Short,Yes,No,Healthy,0,3
+967,Dog,1,Mixed Breed,Male,Brown,White,Medium,Medium,No,No,Healthy,0,10
+968,Dog,60,Mixed Breed,Male,Brown,Cream,Large,Short,Yes,No,Healthy,0,1
+969,Dog,2,Mixed Breed,Female,Black,White,Medium,Short,No,Not Sure,Minor Injury,0,3
+970,Dog,5,Collie,Male,Cream,White,Medium,Short,Yes,Yes,Healthy,0,6
+971,Cat,2,Domestic Short Hair,Male,Yellow,Cream,Small,Short,No,No,Healthy,0,4
+972,Dog,10,Jack Russell Terrier,Male,White,No Color,Medium,Medium,Yes,No,Healthy,0,0
+973,Cat,3,Domestic Short Hair,Male,Golden,Cream,Medium,Short,Yes,No,Healthy,0,5
+974,Cat,2,Siamese,Male,Brown,Cream,Small,Short,No,No,Healthy,0,3
+975,Cat,17,Domestic Short Hair,Female,Black,Brown,Small,Short,Not Sure,Yes,Healthy,0,3
+976,Dog,22,Mixed Breed,Female,Brown,Golden,Small,Short,Yes,No,Healthy,80,3
+977,Dog,2,Beagle,Female,Brown,No Color,Medium,Short,Not Sure,No,Healthy,0,3
+978,Dog,60,Poodle,Female,Cream,White,Small,Medium,Yes,Yes,Healthy,0,3
+979,Dog,9,Shih Tzu,Male,Brown,White,Small,Medium,Not Sure,Yes,Healthy,0,4
+980,Dog,6,Mixed Breed,Male,White,No Color,Medium,Medium,Yes,Yes,Healthy,0,4
+981,Cat,4,Domestic Short Hair,Female,Golden,White,Small,Short,Yes,Yes,Healthy,5,1
+982,Cat,3,Tabby,Female,Black,Brown,Medium,Short,No,No,Healthy,100,4
+983,Cat,4,Domestic Medium Hair,Female,White,No Color,Medium,Medium,Yes,No,Healthy,0,12
+984,Cat,15,Domestic Medium Hair,Female,White,No Color,Medium,Medium,No,No,Healthy,0,1
+985,Cat,12,Domestic Short Hair,Female,Brown,White,Medium,Short,Yes,Yes,Minor Injury,0,1
+986,Dog,36,Mixed Breed,Female,Black,White,Large,Short,Yes,Yes,Healthy,0,2
+987,Dog,2,Mixed Breed,Female,Brown,No Color,Large,Medium,No,No,Minor Injury,0,2
+988,Cat,2,Domestic Medium Hair,Female,Gray,White,Medium,Medium,Yes,No,Healthy,0,1
+989,Dog,2,Mixed Breed,Female,Brown,White,Medium,Short,Yes,Yes,Healthy,0,1
+990,Dog,50,Beagle,Male,Black,Brown,Medium,Medium,Not Sure,Not Sure,Healthy,0,2
+991,Dog,4,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,2
+992,Dog,4,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,1
+993,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,3
+994,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,0,2
+995,Cat,12,Domestic Short Hair,Female,Brown,White,Medium,Medium,No,Not Sure,Healthy,0,5
+996,Dog,2,Mixed Breed,Male,Black,Cream,Medium,Short,Yes,No,Healthy,0,3
+997,Dog,36,Shih Tzu,Male,Black,Brown,Medium,Medium,Yes,Yes,Healthy,0,1
+998,Dog,0,Mixed Breed,Female,Brown,White,Medium,Medium,No,No,Healthy,0,4
+999,Cat,6,Siamese,Female,Golden,White,Small,Short,Yes,Yes,Healthy,0,3
+1000,Cat,5,Domestic Short Hair,Male,Brown,White,Medium,Short,No,No,Healthy,0,1
+1001,Dog,24,Pug,Female,Black,Brown,Small,Short,Yes,Yes,Healthy,0,5
+1002,Dog,24,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,2
+1003,Dog,27,Beagle,Male,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,5
+1004,Cat,4,Domestic Medium Hair,Female,Black,Yellow,Medium,Medium,Yes,Yes,Healthy,30,5
+1005,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,2
+1006,Cat,2,Domestic Short Hair,Male,Black,Gray,Small,Short,No,No,Healthy,0,14
+1007,Cat,2,Domestic Short Hair,Female,White,No Color,Medium,Short,No,No,Healthy,0,1
+1008,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,4
+1009,Cat,14,Domestic Medium Hair,Female,Yellow,Cream,Medium,Medium,Yes,No,Healthy,0,5
+1010,Dog,4,Mixed Breed,Female,Golden,No Color,Medium,Short,Yes,No,Healthy,0,1
+1011,Dog,24,Mixed Breed,Female,Cream,No Color,Medium,Long,Not Sure,Not Sure,Healthy,0,1
+1012,Cat,1,Domestic Medium Hair,Male,Golden,White,Medium,Medium,No,No,Healthy,50,9
+1013,Dog,2,Belgian Shepherd Malinois,Female,Black,Brown,Medium,Medium,Yes,No,Healthy,150,6
+1014,Cat,14,Domestic Short Hair,Female,Brown,White,Medium,Short,Yes,Yes,Healthy,0,3
+1015,Dog,3,Terrier,Female,Brown,No Color,Medium,Medium,Yes,Yes,Healthy,0,2
+1016,Dog,3,Doberman Pinscher,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,8,5
+1017,Dog,24,Doberman Pinscher,Female,Brown,White,Large,Short,Yes,Yes,Healthy,0,5
+1018,Cat,2,Domestic Short Hair,Female,Black,White,Small,Short,No,No,Healthy,0,4
+1019,Cat,3,Domestic Short Hair,Male,Brown,White,Small,Short,Yes,No,Healthy,0,2
+1020,Cat,12,Domestic Long Hair,Female,Black,Brown,Medium,Medium,Not Sure,Not Sure,Healthy,0,3
+1021,Dog,4,Mixed Breed,Male,Black,Brown,Small,Short,No,No,Healthy,0,1
+1022,Dog,36,Mixed Breed,Female,Brown,Golden,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+1023,Dog,24,Mixed Breed,Male,Brown,White,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+1024,Cat,12,Domestic Short Hair,Female,Yellow,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+1025,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,7
+1026,Dog,26,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,5
+1027,Cat,5,Domestic Short Hair,Female,Black,Brown,Small,Short,No,No,Healthy,0,15
+1028,Dog,3,Mixed Breed,Female,Black,No Color,Medium,Short,Not Sure,Not Sure,Healthy,0,3
+1029,Dog,4,Mixed Breed,Male,Brown,No Color,Medium,Medium,Yes,No,Healthy,0,1
+1030,Dog,2,Mixed Breed,Female,Black,No Color,Medium,Short,Yes,No,Healthy,0,2
+1031,Dog,48,Spitz,Female,Black,Brown,Medium,Medium,Yes,Not Sure,Healthy,0,3
+1032,Dog,2,German Shepherd Dog,Female,Black,Brown,Medium,Short,No,No,Healthy,0,1
+1033,Dog,48,Siberian Husky,Female,Brown,No Color,Medium,Medium,Yes,No,Healthy,0,1
+1034,Dog,36,Golden Retriever,Male,Golden,Cream,Large,Medium,Yes,No,Healthy,500,5
+1035,Cat,80,Domestic Medium Hair,Female,Brown,Gray,Medium,Medium,Yes,Yes,Healthy,0,2
+1036,Cat,1,Siamese,Female,Brown,Gray,Small,Medium,No,No,Healthy,0,5
+1037,Cat,6,Domestic Short Hair,Male,Black,White,Medium,Short,No,No,Healthy,30,5
+1038,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,1
+1039,Dog,12,Beagle,Male,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,2
+1040,Dog,60,Spitz,Female,Black,No Color,Medium,Medium,Yes,Yes,Healthy,0,4
+1041,Cat,2,Domestic Short Hair,Female,Black,Gray,Small,Short,No,No,Healthy,0,1
+1042,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Medium,No,No,Healthy,0,1
+1043,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,1
+1044,Cat,12,Domestic Short Hair,Male,Black,Golden,Large,Short,Yes,Yes,Healthy,30,5
+1045,Dog,12,Mixed Breed,Male,White,No Color,Medium,Short,No,No,Healthy,0,2
+1046,Dog,4,Mixed Breed,Female,Black,No Color,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+1047,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,15
+1048,Dog,3,Mixed Breed,Male,Golden,No Color,Medium,Medium,Yes,No,Healthy,0,2
+1049,Dog,47,Mixed Breed,Male,Black,No Color,Medium,Short,Yes,No,Healthy,0,0
+1050,Dog,12,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Yes,Healthy,0,8
+1051,Dog,3,Mixed Breed,Female,Black,No Color,Medium,Medium,Yes,No,Healthy,0,5
+1052,Cat,2,Domestic Short Hair,Female,White,No Color,Medium,Medium,Yes,No,Healthy,0,1
+1053,Dog,12,Mixed Breed,Male,Brown,No Color,Medium,Short,Not Sure,No,Healthy,0,4
+1054,Dog,24,Beagle,Male,Black,Brown,Medium,Short,Yes,No,Healthy,300,1
+1055,Cat,12,Domestic Short Hair,Female,Black,Yellow,Medium,Short,No,No,Healthy,0,1
+1056,Cat,5,Domestic Short Hair,Male,Yellow,White,Medium,Short,No,No,Healthy,0,8
+1057,Cat,3,Domestic Short Hair,Female,Black,Gray,Medium,Short,Yes,Not Sure,Healthy,0,7
+1058,Dog,12,Schnauzer,Male,Gray,No Color,Small,Medium,Yes,No,Healthy,200,4
+1059,Dog,10,Mixed Breed,Male,White,No Color,Medium,Short,Yes,Yes,Healthy,300,2
+1060,Dog,12,Mixed Breed,Male,Black,Golden,Large,Medium,Yes,Not Sure,Healthy,0,2
+1061,Dog,1,Mixed Breed,Male,Brown,Gray,Medium,Short,No,No,Healthy,50,4
+1062,Cat,3,Domestic Short Hair,Male,Brown,Cream,Small,Short,No,No,Minor Injury,0,1
+1063,Dog,2,Mixed Breed,Female,Black,Golden,Medium,Medium,No,No,Healthy,0,3
+1064,Cat,12,Domestic Short Hair,Male,Golden,Yellow,Medium,Short,No,No,Healthy,100,3
+1065,Dog,4,Mixed Breed,Male,Black,Brown,Medium,Medium,Yes,No,Healthy,0,5
+1066,Cat,4,Domestic Short Hair,Female,Cream,No Color,Small,Short,No,No,Minor Injury,0,1
+1067,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Healthy,0,1
+1068,Cat,4,Siamese,Male,Cream,Gray,Small,Medium,Yes,Yes,Healthy,0,3
+1069,Dog,2,Mixed Breed,Female,Black,White,Medium,Medium,Yes,No,Healthy,0,2
+1070,Cat,5,Siamese,Male,Cream,Gray,Medium,Short,Not Sure,No,Healthy,250,5
+1071,Dog,48,Mixed Breed,Male,Brown,Yellow,Large,Short,Not Sure,No,Healthy,1,0
+1072,Cat,5,Domestic Long Hair,Female,Brown,No Color,Medium,Long,Yes,Not Sure,Healthy,100,3
+1073,Cat,3,Tortoiseshell,Female,Black,Golden,Medium,Medium,Yes,No,Healthy,0,5
+1074,Cat,18,Persian,Male,White,No Color,Large,Long,Yes,Yes,Healthy,400,1
+1075,Dog,36,Mixed Breed,Male,Black,White,Medium,Short,No,Yes,Healthy,0,5
+1076,Dog,1,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,Yes,Healthy,0,14
+1077,Dog,7,Chihuahua,Female,Cream,White,Small,Short,Yes,Yes,Healthy,0,3
+1078,Cat,3,Domestic Medium Hair,Male,Gray,White,Medium,Medium,Yes,Not Sure,Healthy,0,4
+1079,Dog,36,Golden Retriever,Male,Golden,No Color,Medium,Medium,Yes,Yes,Healthy,0,5
+1080,Cat,11,Domestic Short Hair,Female,White,No Color,Medium,Short,Yes,Yes,Healthy,0,1
+1081,Dog,36,Mixed Breed,Female,Cream,No Color,Large,Short,Yes,Yes,Healthy,0,1
+1082,Cat,2,Bengal,Male,Golden,Yellow,Medium,Short,No,No,Healthy,0,3
+1083,Dog,6,Mixed Breed,Female,Brown,No Color,Medium,Short,No,No,Healthy,0,0
+1084,Dog,72,Golden Retriever,Female,Golden,Cream,Large,Long,Yes,Yes,Healthy,0,0
+1085,Dog,15,Mixed Breed,Female,Brown,White,Large,Short,Yes,Yes,Healthy,300,5
+1086,Cat,3,Domestic Short Hair,Male,Black,Brown,Medium,Medium,No,No,Healthy,0,3
+1087,Dog,2,Mixed Breed,Female,Brown,White,Medium,Short,No,No,Healthy,0,2
+1088,Cat,3,Domestic Medium Hair,Female,Golden,White,Medium,Medium,No,No,Healthy,0,3
+1089,Cat,7,Oriental Short Hair,Male,Cream,White,Medium,Short,Not Sure,Yes,Healthy,10,5
+1090,Cat,7,Domestic Short Hair,Female,Black,No Color,Medium,Short,Not Sure,Not Sure,Healthy,0,10
+1091,Dog,60,Terrier,Female,Brown,No Color,Medium,Medium,Not Sure,Yes,Healthy,0,3
+1092,Cat,3,Japanese Bobtail,Female,Black,Golden,Medium,Medium,No,No,Healthy,50,5
+1093,Dog,1,Mixed Breed,Male,Black,Brown,Medium,Short,No,No,Healthy,0,4
+1094,Dog,2,Mixed Breed,Male,Black,White,Medium,Short,No,No,Healthy,200,3
+1095,Dog,24,Golden Retriever,Male,Yellow,Cream,Medium,Long,Yes,Yes,Healthy,0,7
+1096,Cat,4,Domestic Medium Hair,Female,Gray,No Color,Medium,Medium,No,No,Healthy,0,2
+1097,Dog,9,Mixed Breed,Male,Black,No Color,Medium,Medium,Not Sure,Yes,Healthy,0,5
+1098,Dog,7,Mixed Breed,Male,Cream,White,Medium,Short,Yes,Yes,Healthy,0,8
+1099,Dog,8,Mixed Breed,Female,Black,White,Medium,Short,No,Yes,Healthy,0,1
+1100,Cat,1,Domestic Medium Hair,Female,Golden,No Color,Medium,Medium,No,No,Healthy,0,3
+1101,Cat,7,Domestic Short Hair,Male,Golden,White,Small,Short,Yes,Yes,Healthy,0,1
+1102,Cat,5,Domestic Short Hair,Male,Golden,White,Small,Short,No,No,Healthy,0,3
+1103,Cat,1,Domestic Medium Hair,Female,Black,Cream,Small,Medium,No,No,Healthy,0,5
+1104,Cat,3,Tabby,Male,Gray,No Color,Medium,Medium,Yes,No,Healthy,0,2
+1105,Cat,24,Siamese,Female,Brown,White,Small,Short,Not Sure,Yes,Healthy,50,3
+1106,Cat,3,Domestic Short Hair,Male,Black,Gray,Medium,Short,No,No,Healthy,0,3
+1107,Cat,3,Oriental Short Hair,Female,Black,Brown,Medium,Medium,No,Not Sure,Healthy,50,3
+1108,Cat,2,Siamese,Male,Brown,Cream,Small,Short,No,No,Healthy,0,1
+1109,Cat,4,Tabby,Male,Yellow,White,Medium,Short,Yes,Not Sure,Healthy,0,2
+1110,Dog,24,Beagle,Male,Brown,White,Medium,Short,Not Sure,No,Healthy,0,4
+1111,Dog,6,Mixed Breed,Female,Black,Brown,Small,Medium,Not Sure,Not Sure,Healthy,0,5
+1112,Cat,2,Domestic Medium Hair,Male,Gray,White,Medium,Medium,No,No,Healthy,0,2
+1113,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,2
+1114,Dog,2,Mixed Breed,Male,Black,No Color,Medium,Short,No,No,Healthy,200,4
+1115,Dog,48,Shih Tzu,Male,White,No Color,Small,Short,Yes,No,Healthy,0,4
+1116,Dog,3,Yellow Labrador Retriever,Male,Brown,No Color,Medium,Short,Not Sure,No,Healthy,0,2
+1117,Cat,4,Domestic Medium Hair,Female,Yellow,White,Medium,Medium,No,No,Healthy,100,2
+1118,Dog,4,Poodle,Male,Black,No Color,Medium,Medium,No,No,Healthy,0,2
+1119,Dog,4,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,7
+1120,Cat,7,Domestic Short Hair,Female,Brown,Yellow,Medium,Short,No,Yes,Healthy,0,5
+1121,Dog,2,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,Not Sure,Healthy,0,4
+1122,Cat,16,Domestic Short Hair,Male,Golden,Yellow,Large,Short,Yes,Yes,Healthy,0,4
+1123,Cat,2,Domestic Short Hair,Male,Black,Cream,Medium,Short,No,No,Minor Injury,0,1
+1124,Dog,5,Mixed Breed,Male,Brown,Cream,Small,Short,Yes,Yes,Healthy,10,3
+1125,Dog,24,Schnauzer,Male,Gray,White,Small,Medium,Not Sure,Yes,Healthy,0,10
+1126,Dog,36,Mixed Breed,Female,Brown,Golden,Medium,Short,Not Sure,Not Sure,Healthy,0,2
+1127,Dog,2,Mixed Breed,Female,Black,Brown,Small,Short,No,No,Healthy,0,6
+1128,Dog,12,Mixed Breed,Female,Brown,No Color,Medium,Medium,No,No,Healthy,0,1
+1129,Cat,3,Domestic Short Hair,Male,Gray,White,Medium,Short,No,No,Healthy,30,1
+1130,Dog,3,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,3
+1131,Dog,2,Terrier,Male,Black,White,Medium,Short,No,No,Healthy,0,3
+1132,Cat,7,Domestic Short Hair,Male,White,No Color,Small,Short,Yes,Yes,Healthy,30,4
+1133,Cat,1,Domestic Medium Hair,Female,Gray,White,Medium,Medium,No,No,Healthy,0,3
+1134,Dog,1,Mixed Breed,Male,Black,No Color,Medium,Medium,No,No,Healthy,0,3
+1135,Dog,7,Wirehaired Terrier,Male,Cream,No Color,Medium,Medium,Yes,Yes,Healthy,250,3
+1136,Cat,10,Domestic Medium Hair,Male,Yellow,No Color,Large,Medium,Not Sure,Not Sure,Healthy,0,8
+1137,Dog,8,Glen of Imaal Terrier,Female,Yellow,Cream,Medium,Long,Yes,No,Healthy,0,5
+1138,Dog,2,Mixed Breed,Male,White,No Color,Medium,Short,Yes,No,Healthy,0,1
+1139,Cat,12,Domestic Short Hair,Female,Black,White,Medium,Short,No,No,Healthy,0,1
+1140,Dog,36,Labrador Retriever,Female,Black,No Color,Large,Medium,Not Sure,Yes,Healthy,0,5
+1141,Cat,12,Domestic Medium Hair,Male,Yellow,No Color,Medium,Long,No,No,Healthy,0,5
+1142,Dog,2,Mixed Breed,Female,Black,No Color,Medium,Short,No,No,Healthy,0,4
+1143,Dog,2,Mixed Breed,Female,Black,Brown,Medium,Short,No,No,Healthy,0,1
+1144,Dog,24,Mixed Breed,Female,White,No Color,Large,Short,Not Sure,Yes,Minor Injury,0,2
+1145,Dog,3,Mixed Breed,Female,Brown,No Color,Medium,Short,Yes,No,Healthy,0,1
+1146,Cat,5,Siamese,Female,White,No Color,Medium,Medium,No,No,Healthy,0,1
+1147,Dog,3,Mixed Breed,Male,Black,No Color,Medium,Medium,Yes,No,Healthy,0,5
+1148,Cat,24,Domestic Medium Hair,Female,White,No Color,Medium,Medium,Not Sure,Not Sure,Healthy,150,2
+1149,Cat,18,Domestic Short Hair,Female,Black,Brown,Medium,Short,Yes,No,Healthy,0,3
+1150,Dog,2,Mixed Breed,Male,Brown,White,Medium,Medium,No,No,Healthy,0,13
+1151,Cat,1,Domestic Medium Hair,Male,Golden,Yellow,Large,Medium,No,No,Healthy,0,3
+1152,Cat,12,Domestic Short Hair,Male,Brown,No Color,Medium,Short,No,No,Healthy,0,3
+1153,Cat,2,Domestic Short Hair,Male,Golden,Yellow,Small,Medium,No,No,Healthy,0,3
+1154,Cat,108,Domestic Short Hair,Male,Black,Brown,Medium,Short,Not Sure,Yes,Healthy,0,10
