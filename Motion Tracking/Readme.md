@@ -1,4 +1,4 @@
-# yoga_pose_est  
+# Yoga Pose Estimation
 ## A Mediapipe based 3d yoga pose classifying and correction tool.   
 ### The script includes the code to create a `joint_angles.csv` file from any dataset of yoga images. Using this data we then create confidence intervals using statistical measures for each of the joint angles for each pose. This is saved as `ci.pickle`
 
